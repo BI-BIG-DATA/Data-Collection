@@ -12,7 +12,7 @@ class DatacollectionItem(scrapy.Item):
 
     pass
 
-class ieeItem(scrapy.Item):
+class IeeItem(scrapy.Item):
     'title': scrapy.Field()
     'authors':scrapy.Field()
     'abstract':scrapy.Field()
@@ -22,5 +22,3 @@ class ieeItem(scrapy.Item):
     'topic':scrapy.Field()
     'latitude':scrapy.Field()
     'longitude':scrapy.Field()
-
-    pass
