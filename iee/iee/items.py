@@ -5,14 +5,14 @@
 
 import scrapy
 
-
 class IeeItem(scrapy.Item):
-    'title': scrapy.Field()
-    'authors':scrapy.Field()
-    'abstract':scrapy.Field()
-    'country':scrapy.Field()
-    'date_pub':scrapy.Field()
-    'journal':scrapy.Field()
-    'topic':scrapy.Field()
-    'latitude':scrapy.Field()
-    'longitude':scrapy.Field()
+    # define the fields for your item here like:
+    title = scrapy.Field()
+    authors = scrapy.Field()
+    country = scrapy.Field()
+    abstract_ = scrapy.Field()
+    date_pub = scrapy.Field()
+    journal = scrapy.Field()
+    topic = scrapy.Field()
+    latitude = scrapy.Field()
+    longitude = scrapy.Field()
