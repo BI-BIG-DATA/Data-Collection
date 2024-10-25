@@ -1,4 +1,4 @@
-# Scrapy settings for datacollection project
+# Scrapy settings for iee project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "datacollection"
+BOT_NAME = "iee"
 
-SPIDER_MODULES = ["datacollection.spiders"]
-NEWSPIDER_MODULE = "datacollection.spiders"
+SPIDER_MODULES = ["iee.spiders"]
+NEWSPIDER_MODULE = "iee.spiders"
 
-
+SPLASH_URL = 'http://0.0.0.0:8050'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "datacollection (+http://www.yourdomain.com)"
+#USER_AGENT = "iee (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -31,8 +31,8 @@ ROBOTSTXT_OBEY = True
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-#COOKIES_ENABLED = False
-
+COOKIES_ENABLED = False
+COOKIES_DEBUG = True
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 
@@ -45,14 +45,24 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "datacollection.middlewares.DatacollectionSpiderMiddleware": 543,
+#    "iee.middlewares.IeeSpiderMiddleware": 543,
 #}
+
+SPIDER_MIDDLEWARES = {
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
+}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "datacollection.middlewares.DatacollectionDownloaderMiddleware": 543,
+#    "iee.middlewares.IeeDownloaderMiddleware": 543,
 #}
+
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy_splash.SplashCookiesMiddleware': 723,
+    'scrapy_splash.SplashMiddleware': 725,
+    'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
+}
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
@@ -63,8 +73,21 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "datacollection.pipelines.DatacollectionPipeline": 300,
+#    "iee.pipelines.IeePipeline": 300,
 #}
+
+ITEM_PIPELINES = {
+    'iee.pipelines.MongoPipeline': 300
+}
+
+
+
+# MONGO_DB, MONGO_URI, etc. 
+MONGODB_SERVER = "localhost"
+MONGODB_PORT = 27017
+MONGODB_DB = "aci"
+MONGODB_COLLECTION = "articles"
+MONGO_URI = 'mongodb://localhost:27017'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

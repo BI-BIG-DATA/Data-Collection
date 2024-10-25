@@ -8,13 +8,10 @@
 from itemadapter import ItemAdapter
 
 
-class DatacollectionPipeline:
+class IeePipeline:
     def process_item(self, item, spider):
         return item
 
-class IeePipeline(object):
-    def process_Item(self, item, spider):
-        return item
 
 import pymongo
 
