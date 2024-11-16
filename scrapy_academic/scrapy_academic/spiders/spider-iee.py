@@ -20,7 +20,7 @@ class AcmSpider(scrapy.Spider):
 
 
             item = AcademicItem(
-                journal=article.css('.epub-section__title::text').get(),
+                journal=article.css('.epub-section__title::text').get(default="N/A"),
                 doi=article.css('.issue-item__doi::text').get(),
                 titre=article.css('.issue-item__title a::text').get(),  # Verify this selector
                 chercheurs = ", ".join([name.css('a span::text').get() 
@@ -28,6 +28,7 @@ class AcmSpider(scrapy.Spider):
                 ]),
                 abstract=article.css('.issue-item__abstract p::text').get(),
                 date=response.css('.bookPubDate::attr(data-title)').get(),
+                indexation = 'ACM'
             )
             yield item
         

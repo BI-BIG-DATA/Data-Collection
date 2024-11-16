@@ -1,0 +1,2165 @@
+[
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "Computing competencies for undergraduate ",
+  "chercheurs": " ACM ",
+  "abstract": null,
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ITiCSE 2024: Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3649405.3659510",
+  "titre": "Towards Building ",
+  "chercheurs": "Christian Servin, Markus Geissler, Koudjo Koumadi, Pam Schmelz, Cara Tang, Cindy Tucker",
+  "abstract": "Community Colleges provide a variety of academic and terminal degrees, such as associates in applied science and certificates of completion. Data Science is considered an emerging computing area that spans many areas of study and impacts academics and ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "WiPSCE '24: Proceedings of the 19th WiPSCE Conference on Primary and Secondary Computing Education Research",
+  "doi": "https://doi.org/10.1145/3677619.3678134",
+  "titre": "Tangible tools for ",
+  "chercheurs": "Lorraine Underwood, Joe Finney, Elisa Rubegni, Steve Hodges",
+  "abstract": " Educators face many practical challenges when introducing data science to students. School networks are strictly controlled by outside resources which creates a barrier to installing and managing both software and hardware. Our tools aim to alleviate ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM Transactions on Spatial Algorithms and Systems (TSAS), Volume 10, Issue 2",
+  "doi": "https://doi.org/10.1145/3652158",
+  "titre": "Mobility ",
+  "chercheurs": "Mohamed Mokbel, Mahmoud Sakr, Li Xiong, Andreas Züfle, Jussara Almeida, Taylor Anderson, Walid Aref, Gennady Andrienko, Natalia Andrienko, Yang Cao, Sanjay Chawla, Reynold Cheng, Panos Chrysanthis, Xiqi Fei, Gabriel Ghinita, Anita Graser, Dimitrios Gunopulos, Christian S. Jensen, Joon-Seok Kim, Kyoung-Sook Kim, Peer Kröger, John Krumm, Johannes Lauer, Amr Magdy, Mario Nascimento, Siva Ravada, Matthias Renz, Dimitris Sacharidis, Flora Salim, Mohamed Sarwat, Maxime Schoemans, Cyrus Shahabi, Bettina Speckmann, Egemen Tanin, Xu Teng, Yannis Theodoridis, Kristian Torp, Goce Trajcevski, Marc van Kreveld, Carola Wenk, Martin Werner, Raymond Wong, Song Wu, Jianqiu Xu, Moustafa Youssef, Demetris Zeinalipour, Mengxuan Zhang, Esteban Zimányi",
+  "abstract": "Mobility data captures the locations of moving objects such as humans, animals, and cars. With the availability of Global Positioning System (GPS)–equipped mobile devices and other inexpensive location-tracking technologies, mobility data is collected ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "NSAD '24: Proceedings of the 10th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domains",
+  "doi": "https://doi.org/10.1145/3689609.3689996",
+  "titre": "Towards a High Level Linter for ",
+  "chercheurs": "Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella",
+  "abstract": "Due to its interdisciplinary nature, the development of data science code is subject to a wide range of potential mistakes that can easily compromise the final results. Several tools have been proposed that can help the data scientist in identifying the ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3633403",
+  "titre": "Advancing Social Justice through ",
+  "chercheurs": "John Bartucz, Ana Smaranda Sandu, Laney Strange, R.N. Uma",
+  "abstract": "Now, more than ever, there is a need for computer scientists and data scientists to be socially responsible about the algorithms they design and the products they build. We all have to conscientiously analyze the impact of our work, particularly on ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "https://doi.org/10.1145/3637528.3673868",
+  "titre": "European ",
+  "chercheurs": "Dunja Mladenic, Dumitru Roman",
+  "abstract": "The European Data Science Day offers a full day focused exclusively on innovative KDD-relevant research and development projects from national and regional funding programs, as well as corporate, start-up, and nonprofit channels. The idea is to bring ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "Sandbox ",
+  "chercheurs": "Justice Toshiba Walker, Amanda Barany, Alex Acquah, Sayed Mohsin Reza, Karen Guzman, Michael Johnson, Omar Badreldin, Alan Barrera",
+  "abstract": "Given an increased focus on computer science education as a valuable context to teach data science—due in part to the potential of computing for accessing, processing, and analyzing digital datasets—there have been steady efforts to develop kindergarten ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635384",
+  "titre": "Topics for an Introductory ",
+  "chercheurs": "Michael A. Posner, April Kerby-Helm",
+  "abstract": "Introductory data science courses are appearing at colleges, universities, and high schools around the country and the world. What topics do we cover in these courses, and how and why are these decisions made? How do we consider the background knowledge ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "Geospatial ",
+  "chercheurs": "Manolis Koubarakis",
+  "abstract": "This introductory textbook teaches the simple development of geospatial applications based on the principles and software tools of geospatial data science. It introduces a new generation of geospatial technologies that have emerged from the development of ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ITiCSE 2023: Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3587102.3588816",
+  "titre": "Human Centered ",
+  "chercheurs": "Allison S. Theobold",
+  "abstract": "The COVID-19 pandemic caused the flaws of traditional grading systems to become even more apparent. In response, a growing number of educators are transitioning their classrooms to focus on alternative methods of assessment. These subversive methods ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3633408",
+  "titre": "Visual ",
+  "chercheurs": "Luiz Barboza, Rafael Ferreira Mello, Erico Souza Teixeira, Andrew M. Olney",
+  "abstract": "The workshop will give educators an introduction to graphical data analysis techniques for exploring, summarizing, and effectively communicating data using Visual Blocks (Blockly) and Jupiter Notebooks. Participants will gain skills to create and ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "CSCW '23 Companion: Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing",
+  "doi": "https://doi.org/10.1145/3584931.3607020",
+  "titre": "NBGuru: Generating Explorable ",
+  "chercheurs": "Panayu Keelawat",
+  "abstract": "Data scientists typically work with domain experts in a Data Science (DS) project, resulting in knowledge gaps between roles. Communication holds an immense and difficult workload due to the complicated content, limited meeting time, vast audience ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 66, Issue 7",
+  "doi": "https://doi.org/10.1145/3582491",
+  "titre": " ",
+  "chercheurs": "M. Tamer Özsu",
+  "abstract": "While the success of early data-science applications is evident, the full impact of data science has yet to be realized.",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635525",
+  "titre": "A Family of Instruments to Measure ",
+  "chercheurs": "April Kerby-Helm, Michael A. Posner, Alana Unfried, Douglas Whitaker, Marjorie E. Bond, Leyla Batakci",
+  "abstract": "Attitudes play an important role in students' academic achievement and retention, yet quality tools to measure them are not readily available in the new field of data science. Through funding from the National Science Foundation, we are developing a ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630874",
+  "titre": "Implications of ChatGPT for ",
+  "chercheurs": "Yiyin Shen, Xinyi Ai, Adalbert Gerald Soosai Raj, Rogers Jeffrey Leo John, Meenakshi Syamkumar",
+  "abstract": "ChatGPT is a conversational AI platform that can produce code to solve problems when provided with a natural language prompt. Prior work on similar AI models has shown that they perform well on typical intro-level Computer Science problems. However, ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "MuC '24: Proceedings of Mensch und Computer 2024",
+  "doi": "https://doi.org/10.1145/3670653.3677486",
+  "titre": "Identifying Characteristics of Reflection Triggers in ",
+  "chercheurs": "Diane Linke, Claudia Müller-Birn",
+  "abstract": " Ethics education in data science aims to teach aspiring data scientists a critical reflective data science practice. However, university courses must bridge the gap between theoretic knowledge of ethics and ethical practice. Towards this, our research ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACMSE '24: Proceedings of the 2024 ACM Southeast Conference",
+  "doi": "https://doi.org/10.1145/3603287.3651201",
+  "titre": "SOTU: A Motivational Example for ",
+  "chercheurs": "Steven Benzel, Ana Stanescu, Ping Ye",
+  "abstract": "The State of the Union address is a traditional annual message delivered by the President of the United States to Congress. As of February 2023, there have been 244 addresses, some delivered as a letter, some as a speech, and some as both. We present a ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630771",
+  "titre": "Adopting Foundational ",
+  "chercheurs": "Vandana P. Janeja, Maria Sanchez, Yi Xuan Khoo, Claudia Von Vacano, Lujie Karen Chen",
+  "abstract": "The prevalence of data across all disciplines and the large workforce demand from industry has led to the rise in interest of data science courses. Educators are increasingly recognizing the value of building communities of practice and adapting and ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SummerSchool '23: 4th ACM Europe Summer School on Science: Towards building the Data Science Stack",
+  "doi": "https://doi.org/10.1145/3673199.3673206",
+  "titre": " ",
+  "chercheurs": "Gustavo Alonso",
+  "abstract": "Computing platforms are evolving rapidly along many dimensions: processors, specialization, disaggregation, acceleration, smart memory and storage, etc. Many of these developments are being driven by data science but also arise from the need to make ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SummerSchool '23: 4th ACM Europe Summer School on Science: Towards building the Data Science Stack",
+  "doi": "https://doi.org/10.1145/3673199.3673206",
+  "titre": " ",
+  "chercheurs": "Gustavo Alonso",
+  "abstract": "Computing platforms are evolving rapidly along many dimensions: processors, specialization, disaggregation, acceleration, smart memory and storage, etc. Many of these developments are being driven by data science but also arise from the need to make ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 66, Issue 2",
+  "doi": "https://doi.org/10.1145/3575663",
+  "titre": "What is ",
+  "chercheurs": "Koby Mike, Orit Hazzan",
+  "abstract": "The ",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CHI EA '24: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+  "doi": "https://doi.org/10.1145/3613905.3638183",
+  "titre": "Understanding Risks of ",
+  "chercheurs": "Sucheta Lahiri",
+  "abstract": "A long-standing question for CHI and CSCW community is to understand data science work and everyday practices. Based on six months of in-person and virtual ethnography with a private organization located in United States and India, this study explores ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 65, Issue 3",
+  "doi": "https://doi.org/10.1145/3495256",
+  "titre": "Automating ",
+  "chercheurs": "Tijl De Bie, Luc De Raedt, José Hernández-Orallo, Holger H. Hoos, Padhraic Smyth, Christopher K. I. Williams",
+  "abstract": "Given the complexity of data science projects and related demand for human expertise, automation has the potential to transform the data science process.",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICIMMI '23: Proceedings of the 5th International Conference on Information Management & Machine Intelligence",
+  "doi": "https://doi.org/10.1145/3647444.3647939",
+  "titre": "The future impact of smart vehicles using ",
+  "chercheurs": "Shruti Thapar, Sachin Sharma, Vivek Saxena, Uday Pratap Singh",
+  "abstract": "The integration of data science and smart vehicles is set to revolutionize the automotive industry and the broader transportation sector. Smart vehicles, equipped with advanced sensors and communication systems, are on the cusp of transforming the way we ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630884",
+  "titre": "Investigating Student Mistakes in Introductory ",
+  "chercheurs": "Anjali Singh, Anna Fariha, Christopher Brooks, Gustavo Soares, Austin Z. Henley, Ashish Tiwari, Chethan M, Heeryung Choi, Sumit Gulwani",
+  "abstract": "Data Science (DS) has emerged as a new academic discipline where students are introduced to data-centric thinking and generating data-driven insights through programming. Unlike traditional introductory Computer Science (CS) education, which focuses on ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "HILDA  24: Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics",
+  "doi": "https://doi.org/10.1145/3665939.3665967",
+  "titre": "Towards Extending XAI for Full ",
+  "chercheurs": "Nadja Geisler, Carsten Binnig",
+  "abstract": "Data preprocessing and engineering are essential parts of any AI system, as indicated by the current trend of data-centric AI. However, until now, explainability efforts have almost exclusively focused on models. We propose explanations for preprocessing ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "DataEd '22: Proceedings of the 1st International Workshop on Data Systems Education",
+  "doi": "https://doi.org/10.1145/3531072.3535318",
+  "titre": "Teaching Responsible ",
+  "chercheurs": "Julia Stoyanovich",
+  "abstract": " Responsible Data Science (RDS) and Responsible AI (RAI) have emerged as prominent areas of research and practice. Yet, educational materials and methodologies on this important subject still lack. In this paper, I will recount my experience in ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635505",
+  "titre": "Effects of Prior Academic Experience in Introductory Level ",
+  "chercheurs": "Noshaba Bhalli, Vandana Janeja, David Harding",
+  "abstract": "Data Science is an in-demand skill in the job market. To meet the demand, universities are offering data science courses or programs. These courses/programs not only give students data science skills, but also awareness of the field, increasing the ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Proceedings of the ACM on Management of Data (PACMMOD), Volume 1, Issue 2",
+  "doi": "https://doi.org/10.1145/3589281",
+  "titre": "Predicate Pushdown for ",
+  "chercheurs": "Cong Yan, Yin Lin, Yeye He",
+  "abstract": "Predicate pushdown is a widely adopted query optimization. Existing systems and prior work mostly use pattern-matching rules to decide when a predicate can be pushed through certain operators like join or groupby. However, challenges arise in optimizing ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "GUIDE-AI '24: Proceedings of the Conference on Governance, Understanding and Integration of Data for Effective and Responsible AI",
+  "doi": "https://doi.org/10.1145/3665601.3669849",
+  "titre": "On Integrating the ",
+  "chercheurs": "Armin Esmaelizadeh, Joel Rorseth, Andy Yu, Parke Godfrey, Lukasz Golab, Divesh Srivastava, Jaroslaw Szlichta, Kazem Taghva",
+  "abstract": " Herein, we advocate for the integration of the pipelines for data science (e.g., extraction, cleaning, and exploration) and machine learning (e.g., training data collection, feature selection, model selection, and parameter tuning), toward responsible ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 67, Issue 4",
+  "doi": "https://doi.org/10.1145/3640539",
+  "titre": "Using ",
+  "chercheurs": "Orit Hazzan, Avital Binah-Pollak",
+  "abstract": "In each issue of ",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635352",
+  "titre": "A Cross-disciplinary Review of Introductory Undergraduate ",
+  "chercheurs": "Michael A. Posner, April Kerby-Helm, Alana Unfried, Douglas Whitaker, Marjorie E. Bond, Leyla Batakci",
+  "abstract": "Data Science is one of the fastest growing fields with unmet demand from employers. Many academic institutions have taken on the task of creating programs to meet both current and future needs and demands. Data science, as a field, integrates aspects of ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "DataEd '23: Proceedings of the 2nd International Workshop on Data Systems Education: Bridging education practice with education research",
+  "doi": "https://doi.org/10.1145/3596673.3596971",
+  "titre": "Offering ",
+  "chercheurs": "Xumin Liu, Erik Golen, Rajendra K. Raj, Kimberly Fluet",
+  "abstract": "Data science courses offered by computing departments tend to be inappropriate for non-computing majors due to the emphasis on coding and a long chain of prerequisite courses in computer science and mathematics or statistics. Moreover, courses ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM Transactions on Spatial Algorithms and Systems (TSAS), Volume 10, Issue 2",
+  "doi": "https://doi.org/10.1145/3672557",
+  "titre": "In Silico Human Mobility ",
+  "chercheurs": "Andreas Züfle, Dieter Pfoser, Carola Wenk, Andrew Crooks, Hamdi Kavak, Taylor Anderson, Joon-Seok Kim, Nathan Holt, Andrew Diantonio",
+  "abstract": "Human mobility data science using trajectories or check-ins of individuals has many applications. Recently, we have seen a plethora of research efforts that tackle these applications. However, research progress in this field is limited by a lack of large ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM Transactions on Database Systems (TODS), Volume 49, Issue 2",
+  "doi": "https://doi.org/10.1145/3644385",
+  "titre": "Supporting Better Insights of ",
+  "chercheurs": "Adriane Chapman, Luca Lauro, Paolo Missier, Riccardo Torlone",
+  "abstract": "Successful data-driven science requires complex data engineering pipelines to clean, transform, and alter data in preparation for machine learning, and robust results can only be achieved when each step in the pipeline can be justified, and its effect on ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3631654",
+  "titre": "Computing in ",
+  "chercheurs": "Zarek Drozda, Justice Toshiba Walker, Kathi Fisler, David Weintrop",
+  "abstract": "students to learn in order to succeed in an increasingly data-driven world. Foundational data literacy skills currently live in a number of subjects across K-12 (e.g., data collection and analysis in science classes, statistical calculations in ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3545947.3576358",
+  "titre": "Towards Building ",
+  "chercheurs": "Christian Servin, Markus Geissler, Koudjo Koumadi, Pam Schmelz, Cara Tang, Cindy Tucker",
+  "abstract": "Community Colleges provide a variety of academic and terminal degrees, such as associates in applied science and certificates of completion. Data Science is considered an emerging computing area that spans many areas of study and impacts academics and ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "doi": "https://doi.org/10.1145/3544549.3577062",
+  "titre": "Designing ",
+  "chercheurs": "Tyler John Reinmund",
+  "abstract": " Within the last few decades, data science has risen towards the top of agendas in public services such as adult social care. Concomitant with this ever-increasing appetite for data science is an expanding catalogue of challenges associated with ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM SIGMOD Record (SIGMOD), Volume 51, Issue 4",
+  "doi": "https://doi.org/10.1145/3582302.3582316",
+  "titre": "Collaborative ",
+  "chercheurs": "Holger Pirk",
+  "abstract": "Motivation: Data science is increasingly collaborative. On the one hand, results need to be distributed, e.g., as interactive visualizations. On the other, collaboration in the data development process improves quality and timeliness. This can take many ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM SIGMOD Record (SIGMOD), Volume 51, Issue 4",
+  "doi": "https://doi.org/10.1145/3582302.3582316",
+  "titre": "Collaborative ",
+  "chercheurs": "Holger Pirk",
+  "abstract": "Motivation: Data science is increasingly collaborative. On the one hand, results need to be distributed, e.g., as interactive visualizations. On the other, collaboration in the data development process improves quality and timeliness. This can take many ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "https://doi.org/10.1145/3534678.3542909",
+  "titre": "3rd IADSS Workshop on ",
+  "chercheurs": "Usama Fayyad, Hamit Hamutcu",
+  "abstract": "The 3rd IADSS Workshop on Data Science Standards follows a tradition of two prior KDD workshops and the initial workshop at ICDM-2018. The theme of the 2022 workshop is: Hiring, Assessing and Upskilling Data Science Talent. Organized by the Initiative ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "ITiCSE '22: Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 2",
+  "doi": "https://doi.org/10.1145/3502717.3532131",
+  "titre": "Exploring Self-Efficacy in ",
+  "chercheurs": "Paul C. Hamerski, Devin Silvia, Marcos D. Caballero",
+  "abstract": "Data science is often heralded as a key learning goal for students in STEM classrooms. There are also myriad efforts to integrate data science into these classrooms, and many dedicated research efforts for identifying the best ways to do so. However, ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "IC3-2023: Proceedings of the 2023 Fifteenth International Conference on Contemporary Computing",
+  "doi": "https://doi.org/10.1145/3607947.3608060",
+  "titre": "Towards Responsible Spatial ",
+  "chercheurs": "Jayant Gupta, Shuai An, Shashi Shekhar",
+  "abstract": " Responsible Geo-AI encourages the design and development of spatial methods, processes, algorithms, and systems to discover spatial patterns (e.g., hotspots, colocations) that reduce adverse impacts on the communities that use them. We propose a vision ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM SIGMOD Record (SIGMOD), Volume 51, Issue 3",
+  "doi": "https://doi.org/10.1145/3572751.3572769",
+  "titre": "VLDB Scalable ",
+  "chercheurs": "Arun Kumar, Alon Halevy, Nesime Tatbul",
+  "abstract": "As part of the International Conference on Very Large Data Bases (VLDB) 2021 / Proceedings of the VLDB Endowment Volume 14, a new Research Track category named Scalable Data Science (SDS) was launched [2, 6]. The goal of SDS is to attract cutting-edge ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "COMPUTE '22: Proceedings of the 15th Annual ACM India Compute Conference",
+  "doi": "https://doi.org/10.1145/3561833.3568493",
+  "titre": "Learning from IITM’s ",
+  "chercheurs": "Andrew Thangaraj",
+  "abstract": " IIT Madras’ undergraduate data science program (https://onlinedegree.iitm.ac.in), started in Jan 2021, with online course delivery and in-person exams, has more than 15,000 enrolled students today. How can high quality education in data science be ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2022: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3478432.3499154",
+  "titre": "Innovation in ",
+  "chercheurs": "Eric Van Dusen, John DeNero, Kseniya Usovich",
+  "abstract": "The workshop will allow participants to gain experience with a series of innovations developed at UC Berkeley that have enabled the teaching of undergraduate data science at scale to students from all backgrounds. Rather than beginning with established ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "WiPSCE '23: Proceedings of the 18th WiPSCE Conference on Primary and Secondary Computing Education Research",
+  "doi": "https://doi.org/10.1145/3605468.3609769",
+  "titre": "A Flexible School and College Level Qualification in ",
+  "chercheurs": "Kate Farrell, Jo Watts, Judy Robertson, Tommy Lawson",
+  "abstract": " This poster abstract describes the design and development of a high school-level qualification in data science. The qualification has been available for 4 years; 1982 learners have completed the course to date across 30 educational institutions. We ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGITE '23: Proceedings of the 24th Annual Conference on Information Technology Education",
+  "doi": "https://doi.org/10.1145/3585059.3611431",
+  "titre": "ChatGPT for Teaching and Learning: An Experience from ",
+  "chercheurs": "Yong Zheng",
+  "abstract": " ChatGPT, an implementation and application of large language models, has gained significant popularity since its initial release. Researchers have been exploring ways to harness the practical benefits of ChatGPT in real-world scenarios. Educational ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "CMLDS '24: Proceedings of the International Conference on Computing, Machine Learning and ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "MM '22: Proceedings of the 30th ACM International Conference on Multimedia",
+  "doi": "https://doi.org/10.1145/3503161.3549913",
+  "titre": " ",
+  "chercheurs": "Nuria Oliver",
+  "abstract": "This invited talk describes the work that a multi-disciplinary team of 20+ volunteer scientists did between March of 2020 and April of 2022, working very closely with the Presidency of the Valencian Government to support their decision-making during the ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "DEEM '23: Proceedings of the Seventh Workshop on Data Management for End-to-End Machine Learning",
+  "doi": "https://doi.org/10.1145/3595360.3595853",
+  "titre": "P2D: A Transpiler Framework for Optimizing ",
+  "chercheurs": "Yordan Grigorov, Haralampos Gavriilidis, Sergey Redyuk, Kaustubh Beedkar, Volker Markl",
+  "abstract": "In this paper, we propose a transpilation-based approach to optimize data science pipelines that comprise database management systems (DBMSes) and data science runtimes (e.g., Python). Our approach allows to identify DBMS-supported operations and ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "ASSETS '23: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility",
+  "doi": "https://doi.org/10.1145/3597638.3608417",
+  "titre": "Notably Inaccessible — ",
+  "chercheurs": "Venkatesh Potluri, Sudheesh Singanamalla, Nussara Tieanklin, Jennifer Mankoff",
+  "abstract": " Computational notebooks, tools that facilitate storytelling through exploration, data analysis, and information visualization, have become the widely accepted standard in the data science community. These notebooks have been widely adopted through ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIKM '23: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management",
+  "doi": "https://doi.org/10.1145/3583780.3615051",
+  "titre": "Selecting Top-k ",
+  "chercheurs": "Mengying Wang, Sheng Guan, Hanchao Ma, Yiyang Bian, Haolai Che, Abhishek Daundkar, Alp Sehirlioglu, Yinghui Wu",
+  "abstract": "Data analytical pipelines routinely involve various domain-specific data science models. Such models require expensive manual or training effort and often incur expensive validation costs (e.g., via scientific simulation analysis). Meanwhile, high-value ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630815",
+  "titre": "Crafting Disability Fairness Learning in ",
+  "chercheurs": "Pax Newman, Tyanin Opdahl, Yudong Liu, Scott Wehrwein, Yasmine N. Elglaly",
+  "abstract": "Ensuring the fairness of machine learning (ML) systems for individuals with disabilities is crucial. Proactive measures are required to identify and mitigate biases in data and models, thereby preventing potential harm or bias against people with ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "I-DO '24: Proceedings of the 2024 International Conference on Information Technology, ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "FAccT '24: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency",
+  "doi": "https://doi.org/10.1145/3630106.3659007",
+  "titre": "Beyond Use-Cases: A Participatory Approach to Envisioning ",
+  "chercheurs": "Caitlin Kearney, Jiri Hron, Helen Kosc, Miri Zilka",
+  "abstract": "With a rising number of law enforcement agencies facing budgetary cuts, many turn to data science in an attempt to maintain service quality with fewer resources. A number of thus adopted solutions–including facial recognition, predictive policing, and ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGMOD '23: Companion of the 2023 International Conference on Management of Data",
+  "doi": "https://doi.org/10.1145/3555041.3589717",
+  "titre": "Demonstration of Geyser: Provenance Extraction and Applications over ",
+  "chercheurs": "Fotis Psallidas, Megan Eileen Leszczynski, Mohammad Hossein Namaki, Avrilia Floratou, Ashvin Agrawal, Konstantinos Karanasos, Subru Krishnan, Pavle Subotic, Markus Weimer, Yinghui Wu, Yiwen Zhu",
+  "abstract": "As enterprises have started developing and deploying complicated data science workloads at scale, the need for mechanisms that enable enterprise-grade data science (e.g., compliance or auditing) has become more pronounced. In this paper, we present ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "https://doi.org/10.1145/3637528.3671497",
+  "titre": "Artificial Intelligence and ",
+  "chercheurs": "Shenda Hong, Daoxin Yin, Gongzheng Tang, Tianfan Fu, Liantao Ma, Junyi Gao, Mengling Feng, Mai Wang, Yu Yang, Fei Wang, Hongfang Liu, Luxia Zhang",
+  "abstract": "KDD AIDSH 2024 aims to foster discussions and developments that push the boundaries of Artificial Intelligence (AI) and Data Science (DS) in healthcare, enhance diagnostic accuracy and promote human-centric approaches to healthcare, thus stimulating ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630886",
+  "titre": "Iterative Design of a Socially-Relevant and Engaging Middle School ",
+  "chercheurs": "David McKinney, Chloe Morton, Brenda Tuohy, Sam Berg, Audrey Karlstad, Courtney Ortega, Zelda Allison, Griffin Munzel, Max Washburn, Yvonne Kao",
+  "abstract": "Data science education can help broaden participation in computer science (CS) because it provides rich, authentic contexts for students to apply their computing knowledge. Data literacy, particularly among underrepresented students, is critical to ...",
+  "date": "Published: 25 January 2023",
+  "indexation": "ACM"
+}
+][
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "Computing competencies for undergraduate ",
+  "chercheurs": " ACM ",
+  "abstract": null,
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ITiCSE 2024: Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3649405.3659510",
+  "titre": "Towards Building ",
+  "chercheurs": "Christian Servin, Markus Geissler, Koudjo Koumadi, Pam Schmelz, Cara Tang, Cindy Tucker",
+  "abstract": "Community Colleges provide a variety of academic and terminal degrees, such as associates in applied science and certificates of completion. Data Science is considered an emerging computing area that spans many areas of study and impacts academics and ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "WiPSCE '24: Proceedings of the 19th WiPSCE Conference on Primary and Secondary Computing Education Research",
+  "doi": "https://doi.org/10.1145/3677619.3678134",
+  "titre": "Tangible tools for ",
+  "chercheurs": "Lorraine Underwood, Joe Finney, Elisa Rubegni, Steve Hodges",
+  "abstract": " Educators face many practical challenges when introducing data science to students. School networks are strictly controlled by outside resources which creates a barrier to installing and managing both software and hardware. Our tools aim to alleviate ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM Transactions on Spatial Algorithms and Systems (TSAS), Volume 10, Issue 2",
+  "doi": "https://doi.org/10.1145/3652158",
+  "titre": "Mobility ",
+  "chercheurs": "Mohamed Mokbel, Mahmoud Sakr, Li Xiong, Andreas Züfle, Jussara Almeida, Taylor Anderson, Walid Aref, Gennady Andrienko, Natalia Andrienko, Yang Cao, Sanjay Chawla, Reynold Cheng, Panos Chrysanthis, Xiqi Fei, Gabriel Ghinita, Anita Graser, Dimitrios Gunopulos, Christian S. Jensen, Joon-Seok Kim, Kyoung-Sook Kim, Peer Kröger, John Krumm, Johannes Lauer, Amr Magdy, Mario Nascimento, Siva Ravada, Matthias Renz, Dimitris Sacharidis, Flora Salim, Mohamed Sarwat, Maxime Schoemans, Cyrus Shahabi, Bettina Speckmann, Egemen Tanin, Xu Teng, Yannis Theodoridis, Kristian Torp, Goce Trajcevski, Marc van Kreveld, Carola Wenk, Martin Werner, Raymond Wong, Song Wu, Jianqiu Xu, Moustafa Youssef, Demetris Zeinalipour, Mengxuan Zhang, Esteban Zimányi",
+  "abstract": "Mobility data captures the locations of moving objects such as humans, animals, and cars. With the availability of Global Positioning System (GPS)–equipped mobile devices and other inexpensive location-tracking technologies, mobility data is collected ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "NSAD '24: Proceedings of the 10th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domains",
+  "doi": "https://doi.org/10.1145/3689609.3689996",
+  "titre": "Towards a High Level Linter for ",
+  "chercheurs": "Greta Dolcetti, Agostino Cortesi, Caterina Urban, Enea Zaffanella",
+  "abstract": "Due to its interdisciplinary nature, the development of data science code is subject to a wide range of potential mistakes that can easily compromise the final results. Several tools have been proposed that can help the data scientist in identifying the ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3633403",
+  "titre": "Advancing Social Justice through ",
+  "chercheurs": "John Bartucz, Ana Smaranda Sandu, Laney Strange, R.N. Uma",
+  "abstract": "Now, more than ever, there is a need for computer scientists and data scientists to be socially responsible about the algorithms they design and the products they build. We all have to conscientiously analyze the impact of our work, particularly on ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "https://doi.org/10.1145/3637528.3673868",
+  "titre": "European ",
+  "chercheurs": "Dunja Mladenic, Dumitru Roman",
+  "abstract": "The European Data Science Day offers a full day focused exclusively on innovative KDD-relevant research and development projects from national and regional funding programs, as well as corporate, start-up, and nonprofit channels. The idea is to bring ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "Sandbox ",
+  "chercheurs": "Justice Toshiba Walker, Amanda Barany, Alex Acquah, Sayed Mohsin Reza, Karen Guzman, Michael Johnson, Omar Badreldin, Alan Barrera",
+  "abstract": "Given an increased focus on computer science education as a valuable context to teach data science—due in part to the potential of computing for accessing, processing, and analyzing digital datasets—there have been steady efforts to develop kindergarten ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635384",
+  "titre": "Topics for an Introductory ",
+  "chercheurs": "Michael A. Posner, April Kerby-Helm",
+  "abstract": "Introductory data science courses are appearing at colleges, universities, and high schools around the country and the world. What topics do we cover in these courses, and how and why are these decisions made? How do we consider the background knowledge ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "Geospatial ",
+  "chercheurs": "Manolis Koubarakis",
+  "abstract": "This introductory textbook teaches the simple development of geospatial applications based on the principles and software tools of geospatial data science. It introduces a new generation of geospatial technologies that have emerged from the development of ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ITiCSE 2023: Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3587102.3588816",
+  "titre": "Human Centered ",
+  "chercheurs": "Allison S. Theobold",
+  "abstract": "The COVID-19 pandemic caused the flaws of traditional grading systems to become even more apparent. In response, a growing number of educators are transitioning their classrooms to focus on alternative methods of assessment. These subversive methods ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3633408",
+  "titre": "Visual ",
+  "chercheurs": "Luiz Barboza, Rafael Ferreira Mello, Erico Souza Teixeira, Andrew M. Olney",
+  "abstract": "The workshop will give educators an introduction to graphical data analysis techniques for exploring, summarizing, and effectively communicating data using Visual Blocks (Blockly) and Jupiter Notebooks. Participants will gain skills to create and ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "CSCW '23 Companion: Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing",
+  "doi": "https://doi.org/10.1145/3584931.3607020",
+  "titre": "NBGuru: Generating Explorable ",
+  "chercheurs": "Panayu Keelawat",
+  "abstract": "Data scientists typically work with domain experts in a Data Science (DS) project, resulting in knowledge gaps between roles. Communication holds an immense and difficult workload due to the complicated content, limited meeting time, vast audience ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 66, Issue 7",
+  "doi": "https://doi.org/10.1145/3582491",
+  "titre": " ",
+  "chercheurs": "M. Tamer Özsu",
+  "abstract": "While the success of early data-science applications is evident, the full impact of data science has yet to be realized.",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635525",
+  "titre": "A Family of Instruments to Measure ",
+  "chercheurs": "April Kerby-Helm, Michael A. Posner, Alana Unfried, Douglas Whitaker, Marjorie E. Bond, Leyla Batakci",
+  "abstract": "Attitudes play an important role in students' academic achievement and retention, yet quality tools to measure them are not readily available in the new field of data science. Through funding from the National Science Foundation, we are developing a ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630874",
+  "titre": "Implications of ChatGPT for ",
+  "chercheurs": "Yiyin Shen, Xinyi Ai, Adalbert Gerald Soosai Raj, Rogers Jeffrey Leo John, Meenakshi Syamkumar",
+  "abstract": "ChatGPT is a conversational AI platform that can produce code to solve problems when provided with a natural language prompt. Prior work on similar AI models has shown that they perform well on typical intro-level Computer Science problems. However, ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "MuC '24: Proceedings of Mensch und Computer 2024",
+  "doi": "https://doi.org/10.1145/3670653.3677486",
+  "titre": "Identifying Characteristics of Reflection Triggers in ",
+  "chercheurs": "Diane Linke, Claudia Müller-Birn",
+  "abstract": " Ethics education in data science aims to teach aspiring data scientists a critical reflective data science practice. However, university courses must bridge the gap between theoretic knowledge of ethics and ethical practice. Towards this, our research ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACMSE '24: Proceedings of the 2024 ACM Southeast Conference",
+  "doi": "https://doi.org/10.1145/3603287.3651201",
+  "titre": "SOTU: A Motivational Example for ",
+  "chercheurs": "Steven Benzel, Ana Stanescu, Ping Ye",
+  "abstract": "The State of the Union address is a traditional annual message delivered by the President of the United States to Congress. As of February 2023, there have been 244 addresses, some delivered as a letter, some as a speech, and some as both. We present a ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630771",
+  "titre": "Adopting Foundational ",
+  "chercheurs": "Vandana P. Janeja, Maria Sanchez, Yi Xuan Khoo, Claudia Von Vacano, Lujie Karen Chen",
+  "abstract": "The prevalence of data across all disciplines and the large workforce demand from industry has led to the rise in interest of data science courses. Educators are increasingly recognizing the value of building communities of practice and adapting and ...",
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM / IMS Journal of Data Science (JDS), Volume 1, Issue 1",
+  "doi": "https://doi.org/10.1145/3644102",
+  "titre": "ACM/IMS ",
+  "chercheurs": "Jelena Bradic, Stratos Idreos, John Lafferty",
+  "abstract": null,
+  "date": "Published: 22 February 2022",
+  "indexation": "ACM"
+},
+{
+  "journal": "SummerSchool '23: 4th ACM Europe Summer School on Science: Towards building the Data Science Stack",
+  "doi": "https://doi.org/10.1145/3673199.3673206",
+  "titre": " ",
+  "chercheurs": "Gustavo Alonso",
+  "abstract": "Computing platforms are evolving rapidly along many dimensions: processors, specialization, disaggregation, acceleration, smart memory and storage, etc. Many of these developments are being driven by data science but also arise from the need to make ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 66, Issue 2",
+  "doi": "https://doi.org/10.1145/3575663",
+  "titre": "What is ",
+  "chercheurs": "Koby Mike, Orit Hazzan",
+  "abstract": "The ",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CHI EA '24: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+  "doi": "https://doi.org/10.1145/3613905.3638183",
+  "titre": "Understanding Risks of ",
+  "chercheurs": "Sucheta Lahiri",
+  "abstract": "A long-standing question for CHI and CSCW community is to understand data science work and everyday practices. Based on six months of in-person and virtual ethnography with a private organization located in United States and India, this study explores ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630884",
+  "titre": "Investigating Student Mistakes in Introductory ",
+  "chercheurs": "Anjali Singh, Anna Fariha, Christopher Brooks, Gustavo Soares, Austin Z. Henley, Ashish Tiwari, Chethan M, Heeryung Choi, Sumit Gulwani",
+  "abstract": "Data Science (DS) has emerged as a new academic discipline where students are introduced to data-centric thinking and generating data-driven insights through programming. Unlike traditional introductory Computer Science (CS) education, which focuses on ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICIMMI '23: Proceedings of the 5th International Conference on Information Management & Machine Intelligence",
+  "doi": "https://doi.org/10.1145/3647444.3647939",
+  "titre": "The future impact of smart vehicles using ",
+  "chercheurs": "Shruti Thapar, Sachin Sharma, Vivek Saxena, Uday Pratap Singh",
+  "abstract": "The integration of data science and smart vehicles is set to revolutionize the automotive industry and the broader transportation sector. Smart vehicles, equipped with advanced sensors and communication systems, are on the cusp of transforming the way we ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 65, Issue 3",
+  "doi": "https://doi.org/10.1145/3495256",
+  "titre": "Automating ",
+  "chercheurs": "Tijl De Bie, Luc De Raedt, José Hernández-Orallo, Holger H. Hoos, Padhraic Smyth, Christopher K. I. Williams",
+  "abstract": "Given the complexity of data science projects and related demand for human expertise, automation has the potential to transform the data science process.",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "HILDA  24: Proceedings of the 2024 Workshop on Human-In-the-Loop Data Analytics",
+  "doi": "https://doi.org/10.1145/3665939.3665967",
+  "titre": "Towards Extending XAI for Full ",
+  "chercheurs": "Nadja Geisler, Carsten Binnig",
+  "abstract": "Data preprocessing and engineering are essential parts of any AI system, as indicated by the current trend of data-centric AI. However, until now, explainability efforts have almost exclusively focused on models. We propose explanations for preprocessing ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "GUIDE-AI '24: Proceedings of the Conference on Governance, Understanding and Integration of Data for Effective and Responsible AI",
+  "doi": "https://doi.org/10.1145/3665601.3669849",
+  "titre": "On Integrating the ",
+  "chercheurs": "Armin Esmaelizadeh, Joel Rorseth, Andy Yu, Parke Godfrey, Lukasz Golab, Divesh Srivastava, Jaroslaw Szlichta, Kazem Taghva",
+  "abstract": " Herein, we advocate for the integration of the pipelines for data science (e.g., extraction, cleaning, and exploration) and machine learning (e.g., training data collection, feature selection, model selection, and parameter tuning), toward responsible ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "DataEd '22: Proceedings of the 1st International Workshop on Data Systems Education",
+  "doi": "https://doi.org/10.1145/3531072.3535318",
+  "titre": "Teaching Responsible ",
+  "chercheurs": "Julia Stoyanovich",
+  "abstract": " Responsible Data Science (RDS) and Responsible AI (RAI) have emerged as prominent areas of research and practice. Yet, educational materials and methodologies on this important subject still lack. In this paper, I will recount my experience in ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635505",
+  "titre": "Effects of Prior Academic Experience in Introductory Level ",
+  "chercheurs": "Noshaba Bhalli, Vandana Janeja, David Harding",
+  "abstract": "Data Science is an in-demand skill in the job market. To meet the demand, universities are offering data science courses or programs. These courses/programs not only give students data science skills, but also awareness of the field, increasing the ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635352",
+  "titre": "A Cross-disciplinary Review of Introductory Undergraduate ",
+  "chercheurs": "Michael A. Posner, April Kerby-Helm, Alana Unfried, Douglas Whitaker, Marjorie E. Bond, Leyla Batakci",
+  "abstract": "Data Science is one of the fastest growing fields with unmet demand from employers. Many academic institutions have taken on the task of creating programs to meet both current and future needs and demands. Data science, as a field, integrates aspects of ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Proceedings of the ACM on Management of Data (PACMMOD), Volume 1, Issue 2",
+  "doi": "https://doi.org/10.1145/3589281",
+  "titre": "Predicate Pushdown for ",
+  "chercheurs": "Cong Yan, Yin Lin, Yeye He",
+  "abstract": "Predicate pushdown is a widely adopted query optimization. Existing systems and prior work mostly use pattern-matching rules to decide when a predicate can be pushed through certain operators like join or groupby. However, challenges arise in optimizing ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "DataEd '23: Proceedings of the 2nd International Workshop on Data Systems Education: Bridging education practice with education research",
+  "doi": "https://doi.org/10.1145/3596673.3596971",
+  "titre": "Offering ",
+  "chercheurs": "Xumin Liu, Erik Golen, Rajendra K. Raj, Kimberly Fluet",
+  "abstract": "Data science courses offered by computing departments tend to be inappropriate for non-computing majors due to the emphasis on coding and a long chain of prerequisite courses in computer science and mathematics or statistics. Moreover, courses ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Communications of the ACM (CACM), Volume 67, Issue 4",
+  "doi": "https://doi.org/10.1145/3640539",
+  "titre": "Using ",
+  "chercheurs": "Orit Hazzan, Avital Binah-Pollak",
+  "abstract": "In each issue of ",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3631654",
+  "titre": "Computing in ",
+  "chercheurs": "Zarek Drozda, Justice Toshiba Walker, Kathi Fisler, David Weintrop",
+  "abstract": "students to learn in order to succeed in an increasingly data-driven world. Foundational data literacy skills currently live in a number of subjects across K-12 (e.g., data collection and analysis in science classes, statistical calculations in ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM Transactions on Database Systems (TODS), Volume 49, Issue 2",
+  "doi": "https://doi.org/10.1145/3644385",
+  "titre": "Supporting Better Insights of ",
+  "chercheurs": "Adriane Chapman, Luca Lauro, Paolo Missier, Riccardo Torlone",
+  "abstract": "Successful data-driven science requires complex data engineering pipelines to clean, transform, and alter data in preparation for machine learning, and robust results can only be achieved when each step in the pipeline can be justified, and its effect on ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM Transactions on Spatial Algorithms and Systems (TSAS), Volume 10, Issue 2",
+  "doi": "https://doi.org/10.1145/3672557",
+  "titre": "In Silico Human Mobility ",
+  "chercheurs": "Andreas Züfle, Dieter Pfoser, Carola Wenk, Andrew Crooks, Hamdi Kavak, Taylor Anderson, Joon-Seok Kim, Nathan Holt, Andrew Diantonio",
+  "abstract": "Human mobility data science using trajectories or check-ins of individuals has many applications. Recently, we have seen a plethora of research efforts that tackle these applications. However, research progress in this field is limited by a lack of large ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2023: Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3545947.3576358",
+  "titre": "Towards Building ",
+  "chercheurs": "Christian Servin, Markus Geissler, Koudjo Koumadi, Pam Schmelz, Cara Tang, Cindy Tucker",
+  "abstract": "Community Colleges provide a variety of academic and terminal degrees, such as associates in applied science and certificates of completion. Data Science is considered an emerging computing area that spans many areas of study and impacts academics and ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635556",
+  "titre": " ",
+  "chercheurs": "Jacob Seungwon Choe, Matthew G. Lee, Siddharth A. Marathe, Armando Fox, Dan Garcia, Narges Norouzi",
+  "abstract": "Table transformations are a critical skill to master in order to fluently work with data. In introductory data science courses, however, students have found these transformations particularly challenging to learn. One complex transformation is the pivot ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "doi": "https://doi.org/10.1145/3544549.3577062",
+  "titre": "Designing ",
+  "chercheurs": "Tyler John Reinmund",
+  "abstract": " Within the last few decades, data science has risen towards the top of agendas in public services such as adult social care. Concomitant with this ever-increasing appetite for data science is an expanding catalogue of challenges associated with ...",
+  "date": "Published: 05 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3626253.3635556",
+  "titre": " ",
+  "chercheurs": "Jacob Seungwon Choe, Matthew G. Lee, Siddharth A. Marathe, Armando Fox, Dan Garcia, Narges Norouzi",
+  "abstract": "Table transformations are a critical skill to master in order to fluently work with data. In introductory data science courses, however, students have found these transformations particularly challenging to learn. One complex transformation is the pivot ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ITiCSE '22: Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 2",
+  "doi": "https://doi.org/10.1145/3502717.3532131",
+  "titre": "Exploring Self-Efficacy in ",
+  "chercheurs": "Paul C. Hamerski, Devin Silvia, Marcos D. Caballero",
+  "abstract": "Data science is often heralded as a key learning goal for students in STEM classrooms. There are also myriad efforts to integrate data science into these classrooms, and many dedicated research efforts for identifying the best ways to do so. However, ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "https://doi.org/10.1145/3534678.3542909",
+  "titre": "3rd IADSS Workshop on ",
+  "chercheurs": "Usama Fayyad, Hamit Hamutcu",
+  "abstract": "The 3rd IADSS Workshop on Data Science Standards follows a tradition of two prior KDD workshops and the initial workshop at ICDM-2018. The theme of the 2022 workshop is: Hiring, Assessing and Upskilling Data Science Talent. Organized by the Initiative ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "IC3-2023: Proceedings of the 2023 Fifteenth International Conference on Contemporary Computing",
+  "doi": "https://doi.org/10.1145/3607947.3608060",
+  "titre": "Towards Responsible Spatial ",
+  "chercheurs": "Jayant Gupta, Shuai An, Shashi Shekhar",
+  "abstract": " Responsible Geo-AI encourages the design and development of spatial methods, processes, algorithms, and systems to discover spatial patterns (e.g., hotspots, colocations) that reduce adverse impacts on the communities that use them. We propose a vision ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM SIGMOD Record (SIGMOD), Volume 51, Issue 3",
+  "doi": "https://doi.org/10.1145/3572751.3572769",
+  "titre": "VLDB Scalable ",
+  "chercheurs": "Arun Kumar, Alon Halevy, Nesime Tatbul",
+  "abstract": "As part of the International Conference on Very Large Data Bases (VLDB) 2021 / Proceedings of the VLDB Endowment Volume 14, a new Research Track category named Scalable Data Science (SDS) was launched [2, 6]. The goal of SDS is to attract cutting-edge ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "COMPUTE '22: Proceedings of the 15th Annual ACM India Compute Conference",
+  "doi": "https://doi.org/10.1145/3561833.3568493",
+  "titre": "Learning from IITM’s ",
+  "chercheurs": "Andrew Thangaraj",
+  "abstract": " IIT Madras’ undergraduate data science program (https://onlinedegree.iitm.ac.in), started in Jan 2021, with online course delivery and in-person exams, has more than 15,000 enrolled students today. How can high quality education in data science be ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2022: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2",
+  "doi": "https://doi.org/10.1145/3478432.3499154",
+  "titre": "Innovation in ",
+  "chercheurs": "Eric Van Dusen, John DeNero, Kseniya Usovich",
+  "abstract": "The workshop will allow participants to gain experience with a series of innovations developed at UC Berkeley that have enabled the teaching of undergraduate data science at scale to students from all backgrounds. Rather than beginning with established ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGITE '23: Proceedings of the 24th Annual Conference on Information Technology Education",
+  "doi": "https://doi.org/10.1145/3585059.3611431",
+  "titre": "ChatGPT for Teaching and Learning: An Experience from ",
+  "chercheurs": "Yong Zheng",
+  "abstract": " ChatGPT, an implementation and application of large language models, has gained significant popularity since its initial release. Researchers have been exploring ways to harness the practical benefits of ChatGPT in real-world scenarios. Educational ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "WiPSCE '23: Proceedings of the 18th WiPSCE Conference on Primary and Secondary Computing Education Research",
+  "doi": "https://doi.org/10.1145/3605468.3609769",
+  "titre": "A Flexible School and College Level Qualification in ",
+  "chercheurs": "Kate Farrell, Jo Watts, Judy Robertson, Tommy Lawson",
+  "abstract": " This poster abstract describes the design and development of a high school-level qualification in data science. The qualification has been available for 4 years; 1982 learners have completed the course to date across 30 educational institutions. We ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "CMLDS '24: Proceedings of the International Conference on Computing, Machine Learning and ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ASSETS '23: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility",
+  "doi": "https://doi.org/10.1145/3597638.3608417",
+  "titre": "Notably Inaccessible — ",
+  "chercheurs": "Venkatesh Potluri, Sudheesh Singanamalla, Nussara Tieanklin, Jennifer Mankoff",
+  "abstract": " Computational notebooks, tools that facilitate storytelling through exploration, data analysis, and information visualization, have become the widely accepted standard in the data science community. These notebooks have been widely adopted through ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "DEEM '23: Proceedings of the Seventh Workshop on Data Management for End-to-End Machine Learning",
+  "doi": "https://doi.org/10.1145/3595360.3595853",
+  "titre": "P2D: A Transpiler Framework for Optimizing ",
+  "chercheurs": "Yordan Grigorov, Haralampos Gavriilidis, Sergey Redyuk, Kaustubh Beedkar, Volker Markl",
+  "abstract": "In this paper, we propose a transpilation-based approach to optimize data science pipelines that comprise database management systems (DBMSes) and data science runtimes (e.g., Python). Our approach allows to identify DBMS-supported operations and ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "MM '22: Proceedings of the 30th ACM International Conference on Multimedia",
+  "doi": "https://doi.org/10.1145/3503161.3549913",
+  "titre": " ",
+  "chercheurs": "Nuria Oliver",
+  "abstract": "This invited talk describes the work that a multi-disciplinary team of 20+ volunteer scientists did between March of 2020 and April of 2022, working very closely with the Presidency of the Valencian Government to support their decision-making during the ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630815",
+  "titre": "Crafting Disability Fairness Learning in ",
+  "chercheurs": "Pax Newman, Tyanin Opdahl, Yudong Liu, Scott Wehrwein, Yasmine N. Elglaly",
+  "abstract": "Ensuring the fairness of machine learning (ML) systems for individuals with disabilities is crucial. Proactive measures are required to identify and mitigate biases in data and models, thereby preventing potential harm or bias against people with ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIKM '23: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management",
+  "doi": "https://doi.org/10.1145/3583780.3615051",
+  "titre": "Selecting Top-k ",
+  "chercheurs": "Mengying Wang, Sheng Guan, Hanchao Ma, Yiyang Bian, Haolai Che, Abhishek Daundkar, Alp Sehirlioglu, Yinghui Wu",
+  "abstract": "Data analytical pipelines routinely involve various domain-specific data science models. Such models require expensive manual or training effort and often incur expensive validation costs (e.g., via scientific simulation analysis). Meanwhile, high-value ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "I-DO '24: Proceedings of the 2024 International Conference on Information Technology, ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "FAccT '24: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency",
+  "doi": "https://doi.org/10.1145/3630106.3659007",
+  "titre": "Beyond Use-Cases: A Participatory Approach to Envisioning ",
+  "chercheurs": "Caitlin Kearney, Jiri Hron, Helen Kosc, Miri Zilka",
+  "abstract": "With a rising number of law enforcement agencies facing budgetary cuts, many turn to data science in an attempt to maintain service quality with fewer resources. A number of thus adopted solutions–including facial recognition, predictive policing, and ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "KDD '24: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "https://doi.org/10.1145/3637528.3671497",
+  "titre": "Artificial Intelligence and ",
+  "chercheurs": "Shenda Hong, Daoxin Yin, Gongzheng Tang, Tianfan Fu, Liantao Ma, Junyi Gao, Mengling Feng, Mai Wang, Yu Yang, Fei Wang, Hongfang Liu, Luxia Zhang",
+  "abstract": "KDD AIDSH 2024 aims to foster discussions and developments that push the boundaries of Artificial Intelligence (AI) and Data Science (DS) in healthcare, enhance diagnostic accuracy and promote human-centric approaches to healthcare, thus stimulating ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGMOD '23: Companion of the 2023 International Conference on Management of Data",
+  "doi": "https://doi.org/10.1145/3555041.3589717",
+  "titre": "Demonstration of Geyser: Provenance Extraction and Applications over ",
+  "chercheurs": "Fotis Psallidas, Megan Eileen Leszczynski, Mohammad Hossein Namaki, Avrilia Floratou, Ashvin Agrawal, Konstantinos Karanasos, Subru Krishnan, Pavle Subotic, Markus Weimer, Yinghui Wu, Yiwen Zhu",
+  "abstract": "As enterprises have started developing and deploying complicated data science workloads at scale, the need for mechanisms that enable enterprise-grade data science (e.g., compliance or auditing) has become more pronounced. In this paper, we present ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Journal of Computing Sciences in Colleges (JCSC), Volume 38, Issue 3",
+  "doi": null,
+  "titre": "African American History and Applied ",
+  "chercheurs": "Gloria Washington",
+  "abstract": "This initiative focuses on redesigning a pre-existing \"Applied Data Science\" course to teach data analytics from an African American History perspective. Both CS and non-CS majors took course to receive a Math/Statistics credit. Approval to redesign ...",
+  "date": "Published: 15 March 2024",
+  "indexation": "ACM"
+}
+][
+{
+  "journal": "ICBDC '24: Proceedings of the 2024 9th International Conference on Big Data and Computing",
+  "doi": "https://doi.org/10.1145/3695220.3695223",
+  "titre": " ",
+  "chercheurs": "Alessio Faccia, Pythagoras Petratos",
+  "abstract": "This article examines the extensive impact of big data applications within Accounting Information Systems (AIS), demonstrating how their integration significantly transforms financial management practices. It focuses on the substantial enhancements big ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICSIM '24: Proceedings of the 2024 7th International Conference on Software Engineering and Information Management",
+  "doi": "https://doi.org/10.1145/3647722.3647725",
+  "titre": " ",
+  "chercheurs": "Zhaohao Sun",
+  "abstract": "We are living in an age of big data and artificial intelligence (AI). The current questions are: what is the future of big data? What era do we live in? This paper addresses these questions by looking at meta as an operation and argues that we are living ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CTCNet '24: Proceedings of the 2024 Asia Pacific Conference on Computing Technologies, Communications and Networking",
+  "doi": "https://doi.org/10.1145/3685767.3685777",
+  "titre": " ",
+  "chercheurs": "Hemn Barzan Abdalla, Ardalan Hussein Awlla, Yulia Kumar, Maryam Cheraghy",
+  "abstract": "This paper presents a comprehensive analysis of the historical progression, current trends, and prospects of Big Data. It explores the technological advancements that have established Big Data as a critical element of contemporary analytics, its ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688585",
+  "titre": " ",
+  "chercheurs": "Huiru Zhang, Kun Zhang",
+  "abstract": "Airports are vital transportation hubs in cities, and the efficiency of their transportation operations directly impacts the overall performance of urban transportation networks. Hocwever, with the rapid growth in demand for air transport, congestion ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630888",
+  "titre": "Learning ",
+  "chercheurs": "Wensheng Wu",
+  "abstract": "Big data systems are becoming an integral part of computing and data science curriculum. However, the current curriculum is largely focused on how to use the systems. An effective approach to learning the internals of big data systems is through ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696532",
+  "titre": "Research on Audit Process Based on ",
+  "chercheurs": "Gaozhan Xu, Rongdong Xu",
+  "abstract": "In order to understand the big data audit risk model, a research on the audit process based on the big data audit risk model has been proposed. This paper first analyzes the audit evolution process of audit risk models under data mining technology. ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688586",
+  "titre": "Access Control for IoT-based ",
+  "chercheurs": "Tian Wang, Weidong Fang, Wuxiong Zhang",
+  "abstract": "With the growing deployment of the Internet of Things (IoT) and big data, tailored services can be offered by IoT-based big data. However, the data it produces includes a lot of personal information, which must be safeguarded. Access control is a crucial ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Journal of Data and Information Quality (JDIQ), Volume 15, Issue 3",
+  "doi": "https://doi.org/10.1145/3603706",
+  "titre": "BIGQA: Declarative ",
+  "chercheurs": "Hadi Fadlallah, Rima Kilany, Houssein Dhayne, Rami El Haddad, Rafiqul Haque, Yehia Taher, Ali Jaber",
+  "abstract": "In the big data domain, data quality assessment operations are often complex and must be implementable in a distributed and timely manner. This article tries to generalize the quality assessment operations by providing a new ISO-based declarative data ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688588",
+  "titre": "The application of ",
+  "chercheurs": "Chenlong Liu, baofeng Hui, Mingxiao Li",
+  "abstract": "The protection of wildlife is pivotal to the maintenance of biodiversity and the preservation of ecological balance. The ecological environment in the plateau region is obviously different from other regions, and the wildlife species in the plateau ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695126",
+  "titre": "Exploring the Effect of ",
+  "chercheurs": "Peng Wan, Tianjiao Yuan",
+  "abstract": "With the deepening of enterprise digital intelligent transformation, enterprises have widely used big data analysis technology in the field of supply chain risk management. In order to study the effect of big data analysis on supply chain risk management ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688594",
+  "titre": "A ",
+  "chercheurs": "Zhikun Liu, Xiaohong Ji, Guoqing Jia",
+  "abstract": "Brown bears frequently appear in populated areas in Qinghai Province, causing property losses and personal safety threats to herdsmen. As brown bears are nationally-protected animals, in order to drive them away without taking lethal measures, this paper ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696560",
+  "titre": "Analysis of Enterprise E-Commerce Marketing Mode Management Based on Intelligent ",
+  "chercheurs": "Fei Sun",
+  "abstract": "With the prosperity and development of the Internet, data has shown an explosive growth trend in economic operation. The era of big data has quietly arrived, and e-commerce enterprises have also entered the golden period of their development. The massive ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCMT '24: Proceedings of the 2024 International Conference on Computer and Multimedia Technology",
+  "doi": "https://doi.org/10.1145/3675249.3675354",
+  "titre": " ",
+  "chercheurs": "Liuchun Wen",
+  "abstract": "In the context of the era of big data, higher vocational English writing courses should make full use of Internet technology and massive information data to build a new teaching model in terms of teaching concepts, teaching forms, teaching resources, and ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDSIC '24: Proceedings of the 2024 6th International Conference on Big-data Service and Intelligent Computation",
+  "doi": "https://doi.org/10.1145/3686540.3686551",
+  "titre": "DvaDRP: a dual variational autoencoder based on ",
+  "chercheurs": "Xin Liao, Bin Yu",
+  "abstract": "Precision medicine represents the direction of cancer treatment in the era of big data. Developing effective drug response prediction (DRP) models is crucial for achieving precision medicine. Although some DRP models have been proposed, their ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDSIC '24: Proceedings of the 2024 6th International Conference on Big-data Service and Intelligent Computation",
+  "doi": "https://doi.org/10.1145/3686540.3686548",
+  "titre": "Research on fish disease detection based on ",
+  "chercheurs": "Zhihao Jiang, Huaisheng Wu, Xiuming Li, Chaojie Ma, Chenlong Liu",
+  "abstract": "Based on big data and deep learning technology, this study con ducted an in-depth study on fish disease detection. Firstly, this study collected and labeled the data and extracted the key features related to fish diseases. Then, based on the YOLOv6 model,...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671329",
+  "titre": "Optimization Research of K-Means Clustering Algorithm Based on ",
+  "chercheurs": "Dan Xu, Mingrui Zhou, Meng Yuan",
+  "abstract": "With the continuous development of Internet technology, the big data era of data blowout is ushered in, data in various fields are produced at a high speed and are beginning to appear more in structured, semi-structured and unstructured forms, data ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDT '23: Proceedings of the 2023 6th International Conference on Big Data Technologies",
+  "doi": "https://doi.org/10.1145/3627377.3627394",
+  "titre": "Innovation in the maths classroom with ",
+  "chercheurs": "Rui Wang, Jianhua Wu",
+  "abstract": "As science and technology continue to develop, big data has become a focal point in various industry sectors, and the era of adaptive learning in education based on big data in education has arrived. Big data in education can bring data support for ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688576",
+  "titre": "Integrating Online Learning and Causal Inference Strategies for ",
+  "chercheurs": "Lian Yu, Pengfei Li, Yifei Shao, Yongsheng Liu, Chao Ma",
+  "abstract": "In the information age, with the explosive growth of data volume, big data analysis and prediction have become central to ensuring stable operations across various industries. As hardware computing power increases and data volume continues to grow, the ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671222",
+  "titre": "Exploring Innovative Paths for Financial Management Optimization in the ",
+  "chercheurs": "Ying Shi, Changkun Lu",
+  "abstract": "With the rapid development of information technology and the advent of the big data era, enterprise financial management is facing increasingly more opportunities and challenges. This paper aims to explore innovative paths for financial management ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671181",
+  "titre": "Application of ",
+  "chercheurs": "Li Ma",
+  "abstract": "Nowadays when the digital communication rate continues to soar, the secrecy hidden danger caused by the inefficient encryption process has gradually evolved into a thorny problem for computer network protection. This research introduces the Hadoop ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695082",
+  "titre": "Design of Unknown Air Information Research and Judgment Mode Based on ",
+  "chercheurs": "Li Chen, Shuai Yin, Lei Liu, Pei Hu",
+  "abstract": "Unidentified air situation breaks out at all times and places, posing a serious challenge to air defense safety. By analyzing the difficult problems in the current research and judgment of unknown air situation, we carried out research on the technical ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696528",
+  "titre": "Research on Behavior Analysis and Employment of College Students Based on ",
+  "chercheurs": "Zhen Liu",
+  "abstract": "The country regards the employment of college graduates as a top priority. There are phenomena of slow employment, delayed employment, difficulty in finding jobs, and difficulty in applying for jobs for college graduates. Tracking the behavior data of ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656925",
+  "titre": "Exploring the Role of ",
+  "chercheurs": "Ruiqi Han",
+  "abstract": "Big data analytics has had a significant impact on various industries as a technology that is still in its infancy. The engineering sector is no exception, and big data analytics is becoming increasingly important in improving engineering costs' accuracy ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695142",
+  "titre": "Research on Intelligent Financial Construction in Colleges and Universities Based on ",
+  "chercheurs": "Chunxiao Zhu",
+  "abstract": "Driven by the rapid development of big data technology and innovative applications such as financial robots, the construction of information intelligence has posed new challenges to deepening the comprehensive reform of education and improving the ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "BDE '24: Proceedings of the 2024 6th International Conference on ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656938",
+  "titre": "The Innovative Application of ",
+  "chercheurs": "Yanling Lan, Sihang Liu",
+  "abstract": "With the big data industry accelerating towards incremental, high-quality and intelligent upgrading and iteration, algorithm and computing power, data and intelligence empowerment has become the most important driving forces of Chinese media industry. ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDEIM '23: Proceedings of the 2023 4th International Conference on Big Data Economy and Information Management",
+  "doi": "https://doi.org/10.1145/3659211.3659290",
+  "titre": "Design of the Smart Contract for “Blockchain + Government ",
+  "chercheurs": "Yaping Li, Weiliang Zhou",
+  "abstract": "The study focuses on developing a smart contract framework for the sharing of government big data in the context of “ckchain + government big data.\" The unique characteristics of government big data sharing are taken into consideration during the ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671360",
+  "titre": "An Enhanced Stacking Integrated Model for Multidimensional Forecasting of Soccer ",
+  "chercheurs": "Guo-Hui Lu",
+  "abstract": "With the advent of the era of big data, the demand for data mining and machine learning in various fields is increasing. With the continuous increase of data scale, the same problem can also be studied through multiple dimensions, and the machine ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDT '23: Proceedings of the 2023 6th International Conference on Big Data Technologies",
+  "doi": "https://doi.org/10.1145/3627377.3627400",
+  "titre": "Research on Crime Prevention and Control Based on ",
+  "chercheurs": "Hongyan Li",
+  "abstract": " New features have appeared in criminal acts in the era of big data. Based on big data analysis, this method pre-processes and mines useful information of text data here. Combined with Apriori algorithm, the characteristics of criminal subjects and ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDMIP '23: Proceedings of the 2023 International Conference on Big Data Mining and Information Processing",
+  "doi": "https://doi.org/10.1145/3645279.3645293",
+  "titre": "Application of Internet ",
+  "chercheurs": "Xiangsen Xu, Shijun Zhang, Ji Lai",
+  "abstract": "In recent years, frequent network security attacks have brought great security threats to computer users. Although the security protection system of technical departments is constantly optimized and improved, it is still in a passive position in terms of ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ACM SIGMOD Record (SIGMOD), Volume 53, Issue 2",
+  "doi": "https://doi.org/10.1145/3685980.3685994",
+  "titre": "Visualizing, Exploring and Analyzing ",
+  "chercheurs": "Nikos Bikakis, George Papastefanatos, Panos K. Chrysanthis, Olga Papemmanuil, David Auber, Steffen Frey, Issei Fujishiro, Hanna Hauptmann, Shixia Liu, Kwan-Liu Ma, Tobias Schreck, Michael Sedlmair, Mohamed A. Sharaf",
+  "abstract": "Information Visualization has been one of the cornerstones of Data Science, turning the abundance of Big Data being produced through modern systems into actionable knowledge. Indeed, the Big Data era has realized the availability of voluminous datasets ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ISCA '23: Proceedings of the 50th Annual International Symposium on Computer Architecture",
+  "doi": "https://doi.org/10.1145/3579371.3589082",
+  "titre": "Profiling Hyperscale ",
+  "chercheurs": "Abraham Gonzalez, Aasheesh Kolli, Samira Khan, Sihang Liu, Vidushi Dadu, Sagar Karandikar, Jichuan Chang, Krste Asanovic, Parthasarathy Ranganathan",
+  "abstract": "Computing demand continues to grow exponentially, largely driven by \"big data\" processing on hyperscale data stores. At the same time, the slowdown in Moore's law is leading the industry to embrace custom computing in large-scale systems. Taken together, ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671176",
+  "titre": "Application of ",
+  "chercheurs": "Jing Lin",
+  "abstract": "In addition to laws, cyberspace needs moral constraints which largely depends on the level of netizens' sense of responsibility in cyberspace. Cultivating the sense of responsibility in cyberspace by combining big data technology was precisely the ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695092",
+  "titre": "Algorithm Design for Intelligent Processing of Medical ",
+  "chercheurs": "Xinjian Xu, Suqin Wang, Lei Ju",
+  "abstract": "With the continuous advancement of medical informatization, electronic medical records, as an important tool to enhance the efficiency of daily diagnosis and treatment in hospitals, provide valuable resources for disease research, clinical decision-...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656946",
+  "titre": "Privacy Protection and ",
+  "chercheurs": "Zhanpeng Zhou, Zhe Wei, Fang Wang",
+  "abstract": "In the age of Big Data, the extensive collection, storage, and analysis of massive volumes of data have become the driving force behind numerous industries and sectors. The potential insights and knowledge that can be derived from Big Data are undeniable,...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656871",
+  "titre": "Hardware and Software Infrastructure Driven by ",
+  "chercheurs": "Kangyelin Chen, Fang Wang, Zhe Wei",
+  "abstract": "This article provides a comprehensive definition of big data and focuses on the current status and development trends of big data hardware and software infrastructure by comprehensively summarizing relevant research at home and abroad. Explored potential ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688596",
+  "titre": "Behavior detection of mobile phone use at work based on ",
+  "chercheurs": "Yuliang Zhao, Changhong Zhang, Xin Zhang",
+  "abstract": "With the prevalence of smartphones, smartphone usage in the workplace is increasingly becoming a noteworthy issue. This study aims to utilize big data and image recognition technology, particularly the YOLO v6 algorithm, to detect and analyze smartphone ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696510",
+  "titre": " ",
+  "chercheurs": "Ying Wang",
+  "abstract": "With the deepening of enterprise digitalization, data mining technology has become a key tool to extract valuable information from massive data. Among them, association rule extraction, as the core content of data mining, is of great significance for ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "ICBDDM '24: Proceedings of the 2024 International Conference on ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "IOTMMIM '24: Proceedings of the First International Workshop on IoT Datasets for Multi-modal Large Model",
+  "doi": "https://doi.org/10.1145/3698385.3699879",
+  "titre": "Multi-Modal ",
+  "chercheurs": "Weiwei Jiang, Yang Zhang, Haoyu Han, Shang Liu, Siqi Duan, Haoxiang Zhang, Weixi Gu",
+  "abstract": "Multi-modal big data analysis has emerged as a vital tool within the Industrial Internet of Things (IIoT). Despite its significance, challenges persist, particularly the absence of an efficient analytical architecture. In this study, we introduce a novel ...",
+  "date": "Published: 12 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Proceedings of the ACM on Software Engineering (PACMSE), Volume 1, Issue FSE",
+  "doi": "https://doi.org/10.1145/3660825",
+  "titre": "Natural Symbolic Execution-Based Testing for ",
+  "chercheurs": "Yaoxuan Wu, Ahmad Humayun, Muhammad Ali Gulzar, Miryung Kim",
+  "abstract": "Symbolic execution is an automated test input generation technique that models individual program paths as logical constraints. However, the realism of concrete test inputs generated by SMT solvers often comes into question. Existing symbolic execution ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDR '22: Proceedings of the 6th International Conference on Big Data Research",
+  "doi": "https://doi.org/10.1145/3564665.3564673",
+  "titre": "Driving Digital Services with ",
+  "chercheurs": "Zhaohao Sun, Kenneth David Strang, Zhiyou Wu",
+  "abstract": "This paper examines how to drive digital services with big data analytics. More specifically, it addresses why big data analytics matters digital services and what is the state of the art of digital services. It reviews big data analytics and presents a ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "AIAHPC '24: Proceedings of the 2024 4th International Conference on Artificial Intelligence, Automation and High Performance Computing",
+  "doi": "https://doi.org/10.1145/3690931.3690969",
+  "titre": "Decision Tree Algorithm Based Health Analysis System for ",
+  "chercheurs": "Tianyou Liang, Junjing Chen, Weibang Feng, Yihao Qi",
+  "abstract": "This paper constructs a big data-driven health analysis system that integrates the decision tree algorithm. The system cleverly integrates the big data processing capability and the logical analysis capability of the decision tree algorithm to implement ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Journal of Data and Information Quality (JDIQ), Volume 15, Issue 3",
+  "doi": "https://doi.org/10.1145/3603707",
+  "titre": "Context-aware ",
+  "chercheurs": "Hadi Fadlallah, Rima Kilany, Houssein Dhayne, Rami El Haddad, Rafiqul Haque, Yehia Taher, Ali Jaber",
+  "abstract": "The term data quality refers to measuring the fitness of data regarding the intended usage. Poor data quality leads to inadequate, inconsistent, and erroneous decisions that could escalate the computational cost, cause a decline in profits, and cause ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDT '23: Proceedings of the 2023 6th International Conference on Big Data Technologies",
+  "doi": "https://doi.org/10.1145/3627377.3627395",
+  "titre": " ",
+  "chercheurs": "Yachao Zhang, Xiaojie Zhang, Wei Sha, Xianghuang Li, Yingxin Wei, Yanfen Deng, Jianhua Liu",
+  "abstract": "The use of acoustic doppler current profilers (ADCP) for measuring current is becoming increasingly widespread. ADCP can rapidly collect a voluminous amount of detailed flow velocities with high temporal and spatial resolutions. This paper presents an ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICIEB '24: Proceedings of the 2024 4th International Conference on Internet and E-Business",
+  "doi": "https://doi.org/10.1145/3690001.3690019",
+  "titre": "Research on the Application of ",
+  "chercheurs": "Zhangjie Yuan, Qichu Qin, Ting Wang",
+  "abstract": "Information dissemination has entered the era of social media, with more and more individuals and businesses obtaining information, publishing information, and shopping transactions through social media platforms. With the rapid development of digital ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDMIP '23: Proceedings of the 2023 International Conference on Big Data Mining and Information Processing",
+  "doi": "https://doi.org/10.1145/3645279.3645297",
+  "titre": "Construction of International Talents Training System in Vocational Colleges Integrating ",
+  "chercheurs": "Min Qin, Xin Shi",
+  "abstract": "As an important part of the education field, vocational college education not only needs to lay emphasis on the improvement of education quality, but also needs to lay emphasis on cultivating of international talents driven by big data, so as to improve ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656945",
+  "titre": "Study on ",
+  "chercheurs": "Sen Wang, Zhe Wei, Fang Wang",
+  "abstract": "With the rapid development of big data, big data technology has profoundly permeated various industries, including the civil aviation sector, where civil airports serve as crucial components and key nodes in civil aviation transportation. Their efficient ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDEIM '23: Proceedings of the 2023 4th International Conference on Big Data Economy and Information Management",
+  "doi": "https://doi.org/10.1145/3659211.3659348",
+  "titre": "A Bibliometric Analysis and Visualization of Human Resource ",
+  "chercheurs": "Guangda Liu, Renqi Zhu, Bo Li, Lin Pan",
+  "abstract": "The rapid evolution of \"Internet Plus\" has brought transformative changes to human resources, giving rise to Human Resource Big Data (HRBD). Despite this surge, a research gap exists in HRBD literature, especially in bibliometrics and visualization ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDSIC '22: Proceedings of the 2022 4th International Conference on Big-data Service and Intelligent Computation",
+  "doi": "https://doi.org/10.1145/3578339.3578345",
+  "titre": "Research on Satellite-borne ",
+  "chercheurs": "Ruirui Xu, Deyou Gu, Junjie Zhang, Di Zhu, Minjia Lin",
+  "abstract": "Based on the development trend of satellite-borne remote sensing data storage technology and the characteristics of satellite-borne solid-state memory, a satellite-borne big-data storage system is studied and designed to meet the requirements of future ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656901",
+  "titre": "Research on the Agricultural Risk Management in the Era of ",
+  "chercheurs": "Xi Zou",
+  "abstract": "Agriculture is often faced with high risk, and farmers lack the ability of risk management. Traditional agricultural risk management tools have various shortcomings, and utilizing big data to agricultural risk management may effectively overcome these ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CODS-COMAD '24: Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD)",
+  "doi": "https://doi.org/10.1145/3632410.3633291",
+  "titre": "Contrastive learning: ",
+  "chercheurs": "Sandhya Tripathi, Christopher Ryan King",
+  "abstract": " Contrastive learning (CL) has exploded in popularity due to its ability to learn effective representations using vast quantities of unlabelled data across multiple domains. CL underlies some of the most impressive applications of generative AI for the ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "BiDEDE '24: Proceedings of the International Workshop on ",
+  "chercheurs": "Philippe Cudré-Mauroux, Andrea Kö, Robert Wrembel",
+  "abstract": null,
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Proceedings of the ACM on Management of Data (PACMMOD), Volume 1, Issue 1",
+  "doi": "https://doi.org/10.1145/3588921",
+  "titre": "Runtime Variation in ",
+  "chercheurs": "Yiwen Zhu, Rathijit Sen, Robert Horton, John Mark Agosta",
+  "abstract": "The dynamic nature of resource allocation and runtime conditions on Cloud can result in high variability in a job's runtime across multiple iterations, leading to a poor experience. Identifying the sources of such variation and being able to predict and ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ASE '23: Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering",
+  "doi": "https://doi.org/10.1109/ASE56229.2023.00034",
+  "titre": "NaturalFuzz: Natural Input Generation for ",
+  "chercheurs": "Ahmad Humayun, Yaoxuan Wu, Miryung Kim, Muhammad Ali Gulzar",
+  "abstract": "Fuzzing applies input mutations iteratively with the only goal of finding more bugs, resulting in synthetic tests that tend to lack realism. Big data analytics are expected to ingest ",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671359",
+  "titre": "Research on Power ",
+  "chercheurs": "Zheng Zhu, Yingjie Tian, Hongshan Yang",
+  "abstract": "This article designs a relevant data governance system for power enterprises in response to the governance issues of power big data. Firstly, it analyzes the opportunities and challenges faced by power companies in big data application governance, and ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656897",
+  "titre": "Risk Analysis of Infrastructure Asset-backed Securitization under ",
+  "chercheurs": "Lijun Zhang, Junwen Feng, Bo Feng",
+  "abstract": "Rating downgrade is an important signal of default, so this paper takes rating downgrade as an important basis for assessing the risk of asset-backed securitization (ABS) products. After analyzing the current situation of China's ABS market, we found ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "ICBDC '24: Proceedings of the 2024 9th International Conference on ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICSCIS '24: Proceedings of the 2024 International Conference on Smart City and Information System",
+  "doi": "https://doi.org/10.1145/3685088.3685186",
+  "titre": "Research on Personalized Sports Training Based on ",
+  "chercheurs": "Zhibo Feng, Fei Huang",
+  "abstract": "This paper investigates the potential of integrating big data and AI into personalized sports training, presenting an intelligent system that analyzes user movement data for customized training plans. Utilizing machine learning and posture recognition ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+}
+][
+{
+  "journal": "ICBDC '24: Proceedings of the 2024 9th International Conference on Big Data and Computing",
+  "doi": "https://doi.org/10.1145/3695220.3695223",
+  "titre": " ",
+  "chercheurs": "Alessio Faccia, Pythagoras Petratos",
+  "abstract": "This article examines the extensive impact of big data applications within Accounting Information Systems (AIS), demonstrating how their integration significantly transforms financial management practices. It focuses on the substantial enhancements big ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICSIM '24: Proceedings of the 2024 7th International Conference on Software Engineering and Information Management",
+  "doi": "https://doi.org/10.1145/3647722.3647725",
+  "titre": " ",
+  "chercheurs": "Zhaohao Sun",
+  "abstract": "We are living in an age of big data and artificial intelligence (AI). The current questions are: what is the future of big data? What era do we live in? This paper addresses these questions by looking at meta as an operation and argues that we are living ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CTCNet '24: Proceedings of the 2024 Asia Pacific Conference on Computing Technologies, Communications and Networking",
+  "doi": "https://doi.org/10.1145/3685767.3685777",
+  "titre": " ",
+  "chercheurs": "Hemn Barzan Abdalla, Ardalan Hussein Awlla, Yulia Kumar, Maryam Cheraghy",
+  "abstract": "This paper presents a comprehensive analysis of the historical progression, current trends, and prospects of Big Data. It explores the technological advancements that have established Big Data as a critical element of contemporary analytics, its ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688585",
+  "titre": " ",
+  "chercheurs": "Huiru Zhang, Kun Zhang",
+  "abstract": "Airports are vital transportation hubs in cities, and the efficiency of their transportation operations directly impacts the overall performance of urban transportation networks. Hocwever, with the rapid growth in demand for air transport, congestion ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1",
+  "doi": "https://doi.org/10.1145/3626252.3630888",
+  "titre": "Learning ",
+  "chercheurs": "Wensheng Wu",
+  "abstract": "Big data systems are becoming an integral part of computing and data science curriculum. However, the current curriculum is largely focused on how to use the systems. An effective approach to learning the internals of big data systems is through ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696532",
+  "titre": "Research on Audit Process Based on ",
+  "chercheurs": "Gaozhan Xu, Rongdong Xu",
+  "abstract": "In order to understand the big data audit risk model, a research on the audit process based on the big data audit risk model has been proposed. This paper first analyzes the audit evolution process of audit risk models under data mining technology. ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688586",
+  "titre": "Access Control for IoT-based ",
+  "chercheurs": "Tian Wang, Weidong Fang, Wuxiong Zhang",
+  "abstract": "With the growing deployment of the Internet of Things (IoT) and big data, tailored services can be offered by IoT-based big data. However, the data it produces includes a lot of personal information, which must be safeguarded. Access control is a crucial ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Journal of Data and Information Quality (JDIQ), Volume 15, Issue 3",
+  "doi": "https://doi.org/10.1145/3603706",
+  "titre": "BIGQA: Declarative ",
+  "chercheurs": "Hadi Fadlallah, Rima Kilany, Houssein Dhayne, Rami El Haddad, Rafiqul Haque, Yehia Taher, Ali Jaber",
+  "abstract": "In the big data domain, data quality assessment operations are often complex and must be implementable in a distributed and timely manner. This article tries to generalize the quality assessment operations by providing a new ISO-based declarative data ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695126",
+  "titre": "Exploring the Effect of ",
+  "chercheurs": "Peng Wan, Tianjiao Yuan",
+  "abstract": "With the deepening of enterprise digital intelligent transformation, enterprises have widely used big data analysis technology in the field of supply chain risk management. In order to study the effect of big data analysis on supply chain risk management ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688588",
+  "titre": "The application of ",
+  "chercheurs": "Chenlong Liu, baofeng Hui, Mingxiao Li",
+  "abstract": "The protection of wildlife is pivotal to the maintenance of biodiversity and the preservation of ecological balance. The ecological environment in the plateau region is obviously different from other regions, and the wildlife species in the plateau ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688594",
+  "titre": "A ",
+  "chercheurs": "Zhikun Liu, Xiaohong Ji, Guoqing Jia",
+  "abstract": "Brown bears frequently appear in populated areas in Qinghai Province, causing property losses and personal safety threats to herdsmen. As brown bears are nationally-protected animals, in order to drive them away without taking lethal measures, this paper ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696560",
+  "titre": "Analysis of Enterprise E-Commerce Marketing Mode Management Based on Intelligent ",
+  "chercheurs": "Fei Sun",
+  "abstract": "With the prosperity and development of the Internet, data has shown an explosive growth trend in economic operation. The era of big data has quietly arrived, and e-commerce enterprises have also entered the golden period of their development. The massive ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCMT '24: Proceedings of the 2024 International Conference on Computer and Multimedia Technology",
+  "doi": "https://doi.org/10.1145/3675249.3675354",
+  "titre": " ",
+  "chercheurs": "Liuchun Wen",
+  "abstract": "In the context of the era of big data, higher vocational English writing courses should make full use of Internet technology and massive information data to build a new teaching model in terms of teaching concepts, teaching forms, teaching resources, and ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDSIC '24: Proceedings of the 2024 6th International Conference on Big-data Service and Intelligent Computation",
+  "doi": "https://doi.org/10.1145/3686540.3686551",
+  "titre": "DvaDRP: a dual variational autoencoder based on ",
+  "chercheurs": "Xin Liao, Bin Yu",
+  "abstract": "Precision medicine represents the direction of cancer treatment in the era of big data. Developing effective drug response prediction (DRP) models is crucial for achieving precision medicine. Although some DRP models have been proposed, their ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671329",
+  "titre": "Optimization Research of K-Means Clustering Algorithm Based on ",
+  "chercheurs": "Dan Xu, Mingrui Zhou, Meng Yuan",
+  "abstract": "With the continuous development of Internet technology, the big data era of data blowout is ushered in, data in various fields are produced at a high speed and are beginning to appear more in structured, semi-structured and unstructured forms, data ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDT '23: Proceedings of the 2023 6th International Conference on Big Data Technologies",
+  "doi": "https://doi.org/10.1145/3627377.3627394",
+  "titre": "Innovation in the maths classroom with ",
+  "chercheurs": "Rui Wang, Jianhua Wu",
+  "abstract": "As science and technology continue to develop, big data has become a focal point in various industry sectors, and the era of adaptive learning in education based on big data in education has arrived. Big data in education can bring data support for ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688576",
+  "titre": "Integrating Online Learning and Causal Inference Strategies for ",
+  "chercheurs": "Lian Yu, Pengfei Li, Yifei Shao, Yongsheng Liu, Chao Ma",
+  "abstract": "In the information age, with the explosive growth of data volume, big data analysis and prediction have become central to ensuring stable operations across various industries. As hardware computing power increases and data volume continues to grow, the ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDSIC '24: Proceedings of the 2024 6th International Conference on Big-data Service and Intelligent Computation",
+  "doi": "https://doi.org/10.1145/3686540.3686548",
+  "titre": "Research on fish disease detection based on ",
+  "chercheurs": "Zhihao Jiang, Huaisheng Wu, Xiuming Li, Chaojie Ma, Chenlong Liu",
+  "abstract": "Based on big data and deep learning technology, this study con ducted an in-depth study on fish disease detection. Firstly, this study collected and labeled the data and extracted the key features related to fish diseases. Then, based on the YOLOv6 model,...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671181",
+  "titre": "Application of ",
+  "chercheurs": "Li Ma",
+  "abstract": "Nowadays when the digital communication rate continues to soar, the secrecy hidden danger caused by the inefficient encryption process has gradually evolved into a thorny problem for computer network protection. This research introduces the Hadoop ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695082",
+  "titre": "Design of Unknown Air Information Research and Judgment Mode Based on ",
+  "chercheurs": "Li Chen, Shuai Yin, Lei Liu, Pei Hu",
+  "abstract": "Unidentified air situation breaks out at all times and places, posing a serious challenge to air defense safety. By analyzing the difficult problems in the current research and judgment of unknown air situation, we carried out research on the technical ...",
+  "date": "Published: 03 October 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "BDE '24: Proceedings of the 2024 6th International Conference on ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656938",
+  "titre": "The Innovative Application of ",
+  "chercheurs": "Yanling Lan, Sihang Liu",
+  "abstract": "With the big data industry accelerating towards incremental, high-quality and intelligent upgrading and iteration, algorithm and computing power, data and intelligence empowerment has become the most important driving forces of Chinese media industry. ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671360",
+  "titre": "An Enhanced Stacking Integrated Model for Multidimensional Forecasting of Soccer ",
+  "chercheurs": "Guo-Hui Lu",
+  "abstract": "With the advent of the era of big data, the demand for data mining and machine learning in various fields is increasing. With the continuous increase of data scale, the same problem can also be studied through multiple dimensions, and the machine ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDMIP '23: Proceedings of the 2023 International Conference on Big Data Mining and Information Processing",
+  "doi": "https://doi.org/10.1145/3645279.3645293",
+  "titre": "Application of Internet ",
+  "chercheurs": "Xiangsen Xu, Shijun Zhang, Ji Lai",
+  "abstract": "In recent years, frequent network security attacks have brought great security threats to computer users. Although the security protection system of technical departments is constantly optimized and improved, it is still in a passive position in terms of ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ISCA '23: Proceedings of the 50th Annual International Symposium on Computer Architecture",
+  "doi": "https://doi.org/10.1145/3579371.3589082",
+  "titre": "Profiling Hyperscale ",
+  "chercheurs": "Abraham Gonzalez, Aasheesh Kolli, Samira Khan, Sihang Liu, Vidushi Dadu, Sagar Karandikar, Jichuan Chang, Krste Asanovic, Parthasarathy Ranganathan",
+  "abstract": "Computing demand continues to grow exponentially, largely driven by \"big data\" processing on hyperscale data stores. At the same time, the slowdown in Moore's law is leading the industry to embrace custom computing in large-scale systems. Taken together, ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671176",
+  "titre": "Application of ",
+  "chercheurs": "Jing Lin",
+  "abstract": "In addition to laws, cyberspace needs moral constraints which largely depends on the level of netizens' sense of responsibility in cyberspace. Cultivating the sense of responsibility in cyberspace by combining big data technology was precisely the ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and Big Data",
+  "doi": "https://doi.org/10.1145/3695080.3695092",
+  "titre": "Algorithm Design for Intelligent Processing of Medical ",
+  "chercheurs": "Xinjian Xu, Suqin Wang, Lei Ju",
+  "abstract": "With the continuous advancement of medical informatization, electronic medical records, as an important tool to enhance the efficiency of daily diagnosis and treatment in hospitals, provide valuable resources for disease research, clinical decision-...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656871",
+  "titre": "Hardware and Software Infrastructure Driven by ",
+  "chercheurs": "Kangyelin Chen, Fang Wang, Zhe Wei",
+  "abstract": "This article provides a comprehensive definition of big data and focuses on the current status and development trends of big data hardware and software infrastructure by comprehensively summarizing relevant research at home and abroad. Explored potential ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDE '24: Proceedings of the 2024 6th International Conference on Big Data Engineering",
+  "doi": "https://doi.org/10.1145/3688574.3688596",
+  "titre": "Behavior detection of mobile phone use at work based on ",
+  "chercheurs": "Yuliang Zhao, Changhong Zhang, Xin Zhang",
+  "abstract": "With the prevalence of smartphones, smartphone usage in the workplace is increasingly becoming a noteworthy issue. This study aims to utilize big data and image recognition technology, particularly the YOLO v6 algorithm, to detect and analyze smartphone ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656946",
+  "titre": "Privacy Protection and ",
+  "chercheurs": "Zhanpeng Zhou, Zhe Wei, Fang Wang",
+  "abstract": "In the age of Big Data, the extensive collection, storage, and analysis of massive volumes of data have become the driving force behind numerous industries and sectors. The potential insights and knowledge that can be derived from Big Data are undeniable,...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "IOTMMIM '24: Proceedings of the First International Workshop on IoT Datasets for Multi-modal Large Model",
+  "doi": "https://doi.org/10.1145/3698385.3699879",
+  "titre": "Multi-Modal ",
+  "chercheurs": "Weiwei Jiang, Yang Zhang, Haoyu Han, Shang Liu, Siqi Duan, Haoxiang Zhang, Weixi Gu",
+  "abstract": "Multi-modal big data analysis has emerged as a vital tool within the Industrial Internet of Things (IIoT). Despite its significance, challenges persist, particularly the absence of an efficient analytical architecture. In this study, we introduce a novel ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDDM '24: Proceedings of the 2024 International Conference on Big Data and Digital Management",
+  "doi": "https://doi.org/10.1145/3696500.3696510",
+  "titre": " ",
+  "chercheurs": "Ying Wang",
+  "abstract": "With the deepening of enterprise digitalization, data mining technology has become a key tool to extract valuable information from massive data. Among them, association rule extraction, as the core content of data mining, is of great significance for ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "AIAHPC '24: Proceedings of the 2024 4th International Conference on Artificial Intelligence, Automation and High Performance Computing",
+  "doi": "https://doi.org/10.1145/3690931.3690969",
+  "titre": "Decision Tree Algorithm Based Health Analysis System for ",
+  "chercheurs": "Tianyou Liang, Junjing Chen, Weibang Feng, Yihao Qi",
+  "abstract": "This paper constructs a big data-driven health analysis system that integrates the decision tree algorithm. The system cleverly integrates the big data processing capability and the logical analysis capability of the decision tree algorithm to implement ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDR '22: Proceedings of the 6th International Conference on Big Data Research",
+  "doi": "https://doi.org/10.1145/3564665.3564673",
+  "titre": "Driving Digital Services with ",
+  "chercheurs": "Zhaohao Sun, Kenneth David Strang, Zhiyou Wu",
+  "abstract": "This paper examines how to drive digital services with big data analytics. More specifically, it addresses why big data analytics matters digital services and what is the state of the art of digital services. It reviews big data analytics and presents a ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Journal of Data and Information Quality (JDIQ), Volume 15, Issue 3",
+  "doi": "https://doi.org/10.1145/3603707",
+  "titre": "Context-aware ",
+  "chercheurs": "Hadi Fadlallah, Rima Kilany, Houssein Dhayne, Rami El Haddad, Rafiqul Haque, Yehia Taher, Ali Jaber",
+  "abstract": "The term data quality refers to measuring the fitness of data regarding the intended usage. Poor data quality leads to inadequate, inconsistent, and erroneous decisions that could escalate the computational cost, cause a decline in profits, and cause ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDT '23: Proceedings of the 2023 6th International Conference on Big Data Technologies",
+  "doi": "https://doi.org/10.1145/3627377.3627395",
+  "titre": " ",
+  "chercheurs": "Yachao Zhang, Xiaojie Zhang, Wei Sha, Xianghuang Li, Yingxin Wei, Yanfen Deng, Jianhua Liu",
+  "abstract": "The use of acoustic doppler current profilers (ADCP) for measuring current is becoming increasingly widespread. ADCP can rapidly collect a voluminous amount of detailed flow velocities with high temporal and spatial resolutions. This paper presents an ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICIEB '24: Proceedings of the 2024 4th International Conference on Internet and E-Business",
+  "doi": "https://doi.org/10.1145/3690001.3690019",
+  "titre": "Research on the Application of ",
+  "chercheurs": "Zhangjie Yuan, Qichu Qin, Ting Wang",
+  "abstract": "Information dissemination has entered the era of social media, with more and more individuals and businesses obtaining information, publishing information, and shopping transactions through social media platforms. With the rapid development of digital ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDMIP '23: Proceedings of the 2023 International Conference on Big Data Mining and Information Processing",
+  "doi": "https://doi.org/10.1145/3645279.3645297",
+  "titre": "Construction of International Talents Training System in Vocational Colleges Integrating ",
+  "chercheurs": "Min Qin, Xin Shi",
+  "abstract": "As an important part of the education field, vocational college education not only needs to lay emphasis on the improvement of education quality, but also needs to lay emphasis on cultivating of international talents driven by big data, so as to improve ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656945",
+  "titre": "Study on ",
+  "chercheurs": "Sen Wang, Zhe Wei, Fang Wang",
+  "abstract": "With the rapid development of big data, big data technology has profoundly permeated various industries, including the civil aviation sector, where civil airports serve as crucial components and key nodes in civil aviation transportation. Their efficient ...",
+  "date": "Published: 13 September 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Proceedings of the ACM on Software Engineering (PACMSE), Volume 1, Issue FSE",
+  "doi": "https://doi.org/10.1145/3660825",
+  "titre": "Natural Symbolic Execution-Based Testing for ",
+  "chercheurs": "Yaoxuan Wu, Ahmad Humayun, Muhammad Ali Gulzar, Miryung Kim",
+  "abstract": "Symbolic execution is an automated test input generation technique that models individual program paths as logical constraints. However, the realism of concrete test inputs generated by SMT solvers often comes into question. Existing symbolic execution ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDR '22: Proceedings of the 6th International Conference on Big Data Research",
+  "doi": "https://doi.org/10.1145/3564665.3564673",
+  "titre": "Driving Digital Services with ",
+  "chercheurs": "Zhaohao Sun, Kenneth David Strang, Zhiyou Wu",
+  "abstract": "This paper examines how to drive digital services with big data analytics. More specifically, it addresses why big data analytics matters digital services and what is the state of the art of digital services. It reviews big data analytics and presents a ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "AIAHPC '24: Proceedings of the 2024 4th International Conference on Artificial Intelligence, Automation and High Performance Computing",
+  "doi": "https://doi.org/10.1145/3690931.3690969",
+  "titre": "Decision Tree Algorithm Based Health Analysis System for ",
+  "chercheurs": "Tianyou Liang, Junjing Chen, Weibang Feng, Yihao Qi",
+  "abstract": "This paper constructs a big data-driven health analysis system that integrates the decision tree algorithm. The system cleverly integrates the big data processing capability and the logical analysis capability of the decision tree algorithm to implement ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Journal of Data and Information Quality (JDIQ), Volume 15, Issue 3",
+  "doi": "https://doi.org/10.1145/3603707",
+  "titre": "Context-aware ",
+  "chercheurs": "Hadi Fadlallah, Rima Kilany, Houssein Dhayne, Rami El Haddad, Rafiqul Haque, Yehia Taher, Ali Jaber",
+  "abstract": "The term data quality refers to measuring the fitness of data regarding the intended usage. Poor data quality leads to inadequate, inconsistent, and erroneous decisions that could escalate the computational cost, cause a decline in profits, and cause ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBDT '23: Proceedings of the 2023 6th International Conference on Big Data Technologies",
+  "doi": "https://doi.org/10.1145/3627377.3627395",
+  "titre": " ",
+  "chercheurs": "Yachao Zhang, Xiaojie Zhang, Wei Sha, Xianghuang Li, Yingxin Wei, Yanfen Deng, Jianhua Liu",
+  "abstract": "The use of acoustic doppler current profilers (ADCP) for measuring current is becoming increasingly widespread. ADCP can rapidly collect a voluminous amount of detailed flow velocities with high temporal and spatial resolutions. This paper presents an ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICIEB '24: Proceedings of the 2024 4th International Conference on Internet and E-Business",
+  "doi": "https://doi.org/10.1145/3690001.3690019",
+  "titre": "Research on the Application of ",
+  "chercheurs": "Zhangjie Yuan, Qichu Qin, Ting Wang",
+  "abstract": "Information dissemination has entered the era of social media, with more and more individuals and businesses obtaining information, publishing information, and shopping transactions through social media platforms. With the rapid development of digital ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDMIP '23: Proceedings of the 2023 International Conference on Big Data Mining and Information Processing",
+  "doi": "https://doi.org/10.1145/3645279.3645297",
+  "titre": "Construction of International Talents Training System in Vocational Colleges Integrating ",
+  "chercheurs": "Min Qin, Xin Shi",
+  "abstract": "As an important part of the education field, vocational college education not only needs to lay emphasis on the improvement of education quality, but also needs to lay emphasis on cultivating of international talents driven by big data, so as to improve ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "ICCBD '24: Proceedings of the 2024 International Conference on Cloud Computing and ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656945",
+  "titre": "Study on ",
+  "chercheurs": "Sen Wang, Zhe Wei, Fang Wang",
+  "abstract": "With the rapid development of big data, big data technology has profoundly permeated various industries, including the civil aviation sector, where civil airports serve as crucial components and key nodes in civil aviation transportation. Their efficient ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDEIM '23: Proceedings of the 2023 4th International Conference on Big Data Economy and Information Management",
+  "doi": "https://doi.org/10.1145/3659211.3659348",
+  "titre": "A Bibliometric Analysis and Visualization of Human Resource ",
+  "chercheurs": "Guangda Liu, Renqi Zhu, Bo Li, Lin Pan",
+  "abstract": "The rapid evolution of \"Internet Plus\" has brought transformative changes to human resources, giving rise to Human Resource Big Data (HRBD). Despite this surge, a research gap exists in HRBD literature, especially in bibliometrics and visualization ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "BDSIC '22: Proceedings of the 2022 4th International Conference on Big-data Service and Intelligent Computation",
+  "doi": "https://doi.org/10.1145/3578339.3578345",
+  "titre": "Research on Satellite-borne ",
+  "chercheurs": "Ruirui Xu, Deyou Gu, Junjie Zhang, Di Zhu, Minjia Lin",
+  "abstract": "Based on the development trend of satellite-borne remote sensing data storage technology and the characteristics of satellite-borne solid-state memory, a satellite-borne big-data storage system is studied and designed to meet the requirements of future ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656901",
+  "titre": "Research on the Agricultural Risk Management in the Era of ",
+  "chercheurs": "Xi Zou",
+  "abstract": "Agriculture is often faced with high risk, and farmers lack the ability of risk management. Traditional agricultural risk management tools have various shortcomings, and utilizing big data to agricultural risk management may effectively overcome these ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CODS-COMAD '24: Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD)",
+  "doi": "https://doi.org/10.1145/3632410.3633291",
+  "titre": "Contrastive learning: ",
+  "chercheurs": "Sandhya Tripathi, Christopher Ryan King",
+  "abstract": " Contrastive learning (CL) has exploded in popularity due to its ability to learn effective representations using vast quantities of unlabelled data across multiple domains. CL underlies some of the most impressive applications of generative AI for the ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "BiDEDE '24: Proceedings of the International Workshop on ",
+  "chercheurs": "Philippe Cudré-Mauroux, Andrea Kö, Robert Wrembel",
+  "abstract": null,
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "Proceedings of the ACM on Management of Data (PACMMOD), Volume 1, Issue 1",
+  "doi": "https://doi.org/10.1145/3588921",
+  "titre": "Runtime Variation in ",
+  "chercheurs": "Yiwen Zhu, Rathijit Sen, Robert Horton, John Mark Agosta",
+  "abstract": "The dynamic nature of resource allocation and runtime conditions on Cloud can result in high variability in a job's runtime across multiple iterations, leading to a poor experience. Identifying the sources of such variation and being able to predict and ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ASE '23: Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering",
+  "doi": "https://doi.org/10.1109/ASE56229.2023.00034",
+  "titre": "NaturalFuzz: Natural Input Generation for ",
+  "chercheurs": "Ahmad Humayun, Yaoxuan Wu, Miryung Kim, Muhammad Ali Gulzar",
+  "abstract": "Fuzzing applies input mutations iteratively with the only goal of finding more bugs, resulting in synthetic tests that tend to lack realism. Big data analytics are expected to ingest ",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+  "doi": "https://doi.org/10.1145/3671151.3671359",
+  "titre": "Research on Power ",
+  "chercheurs": "Zheng Zhu, Yingjie Tian, Hongshan Yang",
+  "abstract": "This article designs a relevant data governance system for power enterprises in response to the governance issues of power big data. Firstly, it analyzes the opportunities and challenges faced by power companies in big data application governance, and ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "N/A",
+  "doi": null,
+  "titre": "ICBDC '24: Proceedings of the 2024 9th International Conference on ",
+  "chercheurs": "",
+  "abstract": null,
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+  "doi": "https://doi.org/10.1145/3656766.3656897",
+  "titre": "Risk Analysis of Infrastructure Asset-backed Securitization under ",
+  "chercheurs": "Lijun Zhang, Junwen Feng, Bo Feng",
+  "abstract": "Rating downgrade is an important signal of default, so this paper takes rating downgrade as an important basis for assessing the risk of asset-backed securitization (ABS) products. After analyzing the current situation of China's ABS market, we found ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+},
+{
+  "journal": "ICSCIS '24: Proceedings of the 2024 International Conference on Smart City and Information System",
+  "doi": "https://doi.org/10.1145/3685088.3685186",
+  "titre": "Research on Personalized Sports Training Based on ",
+  "chercheurs": "Zhibo Feng, Fei Huang",
+  "abstract": "This paper investigates the potential of integrating big data and AI into personalized sports training, presenting an intelligent system that analyzes user movement data for customized training plans. Utilizing machine learning and posture recognition ...",
+  "date": "Published: 12 July 2024",
+  "indexation": "ACM"
+}
+]
